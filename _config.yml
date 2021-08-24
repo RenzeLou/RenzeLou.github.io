@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Renze Lou"
-  avatar           : "reza.jpg"
+  avatar           : "./reza.jpg"
   bio              : "An average student who is interested in Natural Language Processing"
   location         : "Hangzhou, China"
   # employer         :
