@@ -17,8 +17,6 @@ My main research field include but not limited to Information Extraction and Pre
 
 ## Punlications
 
-----
-
 (* indicate equal contribution)
 
 1. Yutong Wang\*, **Renze Lou** \*, Kai Zhang \*, Maoyan Chen and Yujiu Yang. MORE: A Metric Learning Based Framework for Open-Domain Relation Extraction. In ICASSP 2021.
@@ -27,8 +25,6 @@ My main research field include but not limited to Information Extraction and Pre
 4. Weicheng Ma, **Renze Lou**, Kai Zhang, Lili Wang and Soroush Vosoughi. GradTS: A Gradient-Based Automatic Auxiliary Task Selection Method Based on Transformer Networks. In EMNLP 2021.
 
 ## Services
-
-----
 
 External Reviewer: EMNLP2021; JISF
 
