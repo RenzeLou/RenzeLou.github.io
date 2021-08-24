@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now an undergraduate (third-year) student at Zhejiang University City College (ZUCC) who is under the guidance of Prof. [Lin Sun](https://scholar.google.com/citations?user=48cqMXkAAAAJ&hl=zh-CN) (Associated Professor) and I will receive my B.Eng. Degree in 2022.fall. 
+I am now an undergraduate (third-year) student at Zhejiang University City College (ZUCC) who is under the guidance of Prof. [Lin Sun](https://scholar.google.com/citations?user=48cqMXkAAAAJ&hl=zh-CN) (Associated Professor, as well as a mentor of master students at Zhejiang University) and I will receive my B.Eng. Degree in 2022.fall. 
 
 I used to have a remote research internship in TsingHua University, advised by Prof. [Yujiu Yang](https://www.researchgate.net/profile/Yujiu-Yang). I also worked closely with Prof. [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/) at Dartmouth College.
 
