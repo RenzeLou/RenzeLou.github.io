@@ -25,3 +25,10 @@ My main research field include but not limited to Information Extraction and Pre
 2. **Renze Lou**\*, Fan Zhang\*, Xiaowei Zhou, Yutong Wang, Minghui Wu, Lin Sun. A Unified Representation Learning Strategy for Open Relation Extraction with Ranked List Loss. In CCL 2021.
 3. Weicheng Ma\*, Kai Zhang\*, **Renze Lou**, Lili Wang and Soroush Vosoughi. Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks. In ACL 2021 (**Long Oral**).
 4. Weicheng Ma, **Renze Lou**, Kai Zhang, Lili Wang and Soroush Vosoughi. GradTS: A Gradient-Based Automatic Auxiliary Task Selection Method Based on Transformer Networks. In EMNLP 2021.
+
+## Services
+
+----
+
+External Reviewer: EMNLP2021; JISF
+
