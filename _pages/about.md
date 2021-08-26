@@ -15,7 +15,7 @@ I used to have a research internship at TsingHua University, advised by Prof. [Y
 My main research fields include but not limited to Information Extraction and Pre-trained Language Model.
 
 
-## Punlications
+## Selected Punlications
 
 (* indicate equal contribution)
 
