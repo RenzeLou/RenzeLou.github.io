@@ -12,7 +12,7 @@ I am now an (third-year) undergraduate student at Zhejiang University City Colle
 
 I used to have a research internship at TsingHua University, advised by Prof. [Yujiu Yang](https://www.researchgate.net/profile/Yujiu-Yang). Besides, I worked closely with Prof. [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/) at Dartmouth College.
 
-My main research fields include but not limited to Information Extraction and Pre-trained Language Model.
+My main research fields include but are not limited to Information Extraction and Pre-trained Language Model.
 
 
 ## Selected Punlications
