@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Reza's Website"
 title_separator          : "-"
 name                     : &name "Renze Lou"
-description              : &description "An average student who is interested in Natural Language Processing"
+description              : &description "A hard-working student who is interested in Natural Language Processing"
 url                      : https://renzelou.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "RenzeLou/RenzeLou.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Renze Lou"
   avatar           : "reza.png"
-  bio              : "An average student who is interested in Natural Language Processing"
+  bio              : "A hard-working student who is interested in Natural Language Processing"
   location         : "Hangzhou, China"
   # employer         :
   # pubmed           : 
