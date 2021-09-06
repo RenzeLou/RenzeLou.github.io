@@ -22,7 +22,7 @@ My main research fields include but are not limited to **Information Extraction*
 1. Yutong Wang\*, **Renze Lou** \*, Kai Zhang \*, Maoyan Chen and Yujiu Yang. MORE: A Metric Learning Based Framework for Open-Domain Relation Extraction. In ICASSP 2021.
 <!-- 2. **Renze Lou**\*, Fan Zhang\*, Xiaowei Zhou, Yutong Wang, Minghui Wu, Lin Sun. A Unified Representation Learning Strategy for Open Relation Extraction with Ranked List Loss. In CCL 2021. -->
 2. Weicheng Ma\*, Kai Zhang\*, **Renze Lou**, Lili Wang and Soroush Vosoughi. Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks. In ACL 2021 (**Long Oral**).
-3. Weicheng Ma\*, **Renze Lou** \*, Kai Zhang, Lili Wang and Soroush Vosoughi. GradTS: A Gradient-Based Automatic Auxiliary Task Selection Method Based on Transformer Networks. In EMNLP 2021.
+3. Weicheng Ma\*, **Renze Lou** , Kai Zhang, Lili Wang and Soroush Vosoughi. GradTS: A Gradient-Based Automatic Auxiliary Task Selection Method Based on Transformer Networks. In EMNLP 2021.
 
 ## Services
 
