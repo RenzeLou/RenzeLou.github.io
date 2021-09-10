@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am now an (third-year) undergraduate student at Zhejiang University City College (ZUCC)  who is also a research asistance under the guidance of Prof. [Lin Sun](http://jsxy.zucc.edu.cn/art/2020/4/8/art_2788_194362.html) (Associated Professor at ZUCC, as well as a mentor of master students at Zhejiang University). Barring accidents, I should receive my B.Eng. Degree in the coming year. 
+I am now an junior undergraduate student at Zhejiang University City College (ZUCC)  who is also a research asistance under the guidance of Prof. [Lin Sun](http://jsxy.zucc.edu.cn/art/2020/4/8/art_2788_194362.html) (Associated Professor at ZUCC, as well as a mentor of master students at Zhejiang University). Barring accidents, I should receive my B.Eng. Degree in the coming year. 
 
 I used to have a research internship at TsingHua University, advised by Prof. [Yujiu Yang](https://www.researchgate.net/profile/Yujiu-Yang). Besides, I worked closely with Prof. [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/) at Dartmouth College.
 
