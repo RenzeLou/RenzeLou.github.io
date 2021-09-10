@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a senior undergraduate student at Zhejiang University City College (ZUCC). Meanwhile, I'm also a research assistant under the guidance of Prof. [Lin Sun](http://jsxy.zucc.edu.cn/art/2020/4/8/art_2788_194362.html) (Associated Professor at ZUCC, as well as a mentor of master students at Zhejiang University). Barring accidents, I should receive my B.Eng. Degree in the coming year. 
+I am now a senior undergraduate student at Zhejiang University City College (ZUCC). Meanwhile, I'm also a research assistant under the guidance of Prof. [Lin Sun](http://jsxy.zucc.edu.cn/art/2020/4/8/art_2788_194362.html) (associated Professor at ZUCC, as well as a mentor of master students at Zhejiang University). Barring accidents, I should receive my B.Eng. Degree in the coming year. 
 
 I used to have a research internship at Tsinghua University, advised by Prof. [Yujiu Yang](https://www.researchgate.net/profile/Yujiu-Yang). Besides, I worked closely with Prof. [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/) at Dartmouth College.
 
@@ -28,5 +28,5 @@ My main research fields include but are not limited to **Information Extraction*
 
 **External Reviewer**: EMNLP2021; IJCAI 2021; JISF.
 
-**Leadership**: Co-Founder of [CCAi](https://github.com/ZUCC-AI) (the first institution for Artificial Intelligence 
+**Leadership**: Co-Founder of [CCAi](https://github.com/ZUCC-AI) (the first institution for Artificial Intelligence at ZUCC)
 
