@@ -12,7 +12,7 @@ I am now a senior undergraduate student at Zhejiang University City College (ZUC
 
 I used to have a research internship at Tsinghua University, advised by Prof. [Yujiu Yang](https://www.researchgate.net/profile/Yujiu-Yang). Besides, I worked closely with Prof. [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/) at Dartmouth College.
 
-My main research fields include but are not limited to **Information Extraction** and **Pre-trained Language Model**.
+My main research fields include but are not limited to **Information Extraction** and **Pre-trained Language Model**. Recently, I have become obsessed with the Psychology-relevant NLP task (e.g., guidance in psychology-therapy dialogue).
 
 
 ## Selected Publications
