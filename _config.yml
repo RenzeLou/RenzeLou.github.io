@@ -89,7 +89,7 @@ author:
   googlescholar    : # "https://scholar.google.com/citations?user=GVTbSPMAAAAJ&hl=zh-CN"
   email            : "marionojump0722@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              :  https://blog.csdn.net/weixin_43301333?spm=1001.2101.3001.5343
   bitbucket        :
   codepen          :
   dribbble         :
@@ -115,7 +115,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  blog             : https://blog.csdn.net/weixin_43301333?spm=1001.2101.3001.5343
 
 
 # Reading Files
