@@ -12,11 +12,11 @@ I am a first-year PhD student at Temple University, supervised by Prof. [Wenpeng
 
 ## Updates:
 - June 2022: Two of our works were submitted to EMNLP 2022.
-- May 2022: I received several Ph.D. offers and chose Temple University finally. 
+- May 2022: **I received several Ph.D. offers and chose Temple University finally.** 
 - April 2022: One of my works was submitted to ARR Apr. 
 - February 2022: One of my works was submitted to ARR Feb. 
 - October 2021: I came to CUHK-SZ and recieved a research assistantship, advised by Prof. Yan Song.
-- Augest 2021: One of my works was accepted by EMNLP 2021.
+- Augest 2021: **One of my works was accepted by EMNLP 2021.**
 
 
 ## Research Experience:
