@@ -23,7 +23,7 @@ I am a first-year PhD student at Temple University, supervised by Prof. [Wenpeng
 - **Research Assistant**. The Chinese University of Hongkong (Shenzhen), Oct. 2021 ~ May 2022, cooperated with Prof. [Yan Song](https://clksong.github.io/). 
 - **Research Intern**. Dartmouth College, Oct. 2020 ~ Aug. 2021, worked closely with Prof. [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/) and Dr. Weicheng Ma.
 - **Research Intern**. Tsinghua Shenzhen International Graduate School, Jun. 2020 ~ Oct. 2022, advised by Prof. [Yujiu Yang](https://www.researchgate.net/profile/Yujiu-Yang).
-- **Research Assistant**. Zhejiang University City College, Jul. 2020 ~ Mar. 2022, advised by Prof. [Lin Sun](https://scholar.google.com/citations?user=48cqMXkAAAAJ&hl=zh-CN).
+- **Research Assistant**. Zhejiang University City College, Jul. 2020 ~ Mar. 2021, advised by Prof. [Lin Sun](https://scholar.google.com/citations?user=48cqMXkAAAAJ&hl=zh-CN).
 
 ## Selected Publications
 
