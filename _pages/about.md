@@ -43,10 +43,3 @@ I am a first-year PhD student at Temple University, supervised by Prof. [Wenpeng
 
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=dc26DYNe0X1PgCNiVzcfGP8oPNLgTbiwGE77MJThVnw&cl=ffffff&w=a"></script>
-
-
-<!-- I am now a senior undergraduate student at Zhejiang University City College (ZUCC). Meanwhile, I'm also a research assistant under the guidance of Prof. [Lin Sun](https://scholar.google.com/citations?user=48cqMXkAAAAJ&hl=zh-CN) (associated Professor at ZUCC, as well as a mentor of master students at Zhejiang University). Barring accidents, I should receive my B.Eng. Degree this year.  --> -->
-
-<!-- I used to have a research internship at Tsinghua University, advised by Prof. [Yujiu Yang](https://www.researchgate.net/profile/Yujiu-Yang). Besides, I worked closely with Prof. [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/) at Dartmouth College. -->
-
-<!-- My main research fields include but are not limited to **Information Extraction** and **Pre-trained Language Model**. Recently, I have been studying **Emotion Analysis in Conversations** intensively.
