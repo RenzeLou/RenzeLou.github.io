@@ -8,12 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am now a senior undergraduate student at Zhejiang University City College (ZUCC). Meanwhile, I'm also a research assistant under the guidance of Prof. [Lin Sun](https://scholar.google.com/citations?user=48cqMXkAAAAJ&hl=zh-CN) (associated Professor at ZUCC, as well as a mentor of master students at Zhejiang University). Barring accidents, I should receive my B.Eng. Degree this year.  -->
+I am a first-year PhD student at Temple University, supervised by Prof. [Wengpen Yin](https://sites.google.com/site/yinwenpeng1987/). My research interests include but are not limited to **Information Extraction** and **Pre-trained Language Model**. Recently, I have been studying **Emotion Analysis in Conversations** intensively.
 
-<!-- I used to have a research internship at Tsinghua University, advised by Prof. [Yujiu Yang](https://www.researchgate.net/profile/Yujiu-Yang). Besides, I worked closely with Prof. [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/) at Dartmouth College. -->
+## Updates:
+- June 2022: Two of our works submitted to EMNLP 2022.
+- May 2022: Recieve several PhD offers, choose Temple University finally. 
+- April 2022: One of my works submitted to ARR Apr. 
+- February 2022: One of my works submitted to ARR Feb. 
+- October 2021: Come to CUHK-SZ, research assistantship, advised by Prof. Yan Song.
+- Augest 2021: One of my works accepted by EMNLP 2021.
 
-<!-- My main research fields include but are not limited to **Information Extraction** and **Pre-trained Language Model**. Recently, I have been studying **Emotion Analysis in Conversations** intensively.
 
+## Research Experience:
+- **Research Assistant**. The Chinese University of Hongkong (Shenzhen), Oct. 2021 ~ May 2022, cooperated with Prof. [Yan Song](https://clksong.github.io/). 
+- **Research Intern**. Dartmouth College, Oct. 2020 ~ Aug. 2021, worked closely with Prof. [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/) and Dr. Weicheng Ma.
+- **Research Intern**. Tsinghua Shenzhen International Graduate School, Jun. 2020 ~ Oct. 2022, advised by Prof. [Yujiu Yang](https://www.researchgate.net/profile/Yujiu-Yang).
+- **Research Assistant**. Zhejiang University City College, Jul. 2020 ~ Mar. 2022, advised by Prof. [Lin Sun](https://scholar.google.com/citations?user=48cqMXkAAAAJ&hl=zh-CN).
 
 ## Selected Publications
 
@@ -28,6 +38,15 @@ I am now a senior undergraduate student at Zhejiang University City College (ZUC
 
 **External Reviewer**: EMNLP2021; IJCAI 2021; JISF.
 
-**Leadership**: Co-Founder of [CCAi](https://github.com/ZUCC-AI) (the first institution for Artificial Intelligence at ZUCC)
+**Leadership**: Co-Founder of [CCAi](https://github.com/ZUCC-AI).
+
+
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=dc26DYNe0X1PgCNiVzcfGP8oPNLgTbiwGE77MJThVnw&cl=ffffff&w=a"></script>
+
+
+<!-- I am now a senior undergraduate student at Zhejiang University City College (ZUCC). Meanwhile, I'm also a research assistant under the guidance of Prof. [Lin Sun](https://scholar.google.com/citations?user=48cqMXkAAAAJ&hl=zh-CN) (associated Professor at ZUCC, as well as a mentor of master students at Zhejiang University). Barring accidents, I should receive my B.Eng. Degree this year.  --> -->
+
+<!-- I used to have a research internship at Tsinghua University, advised by Prof. [Yujiu Yang](https://www.researchgate.net/profile/Yujiu-Yang). Besides, I worked closely with Prof. [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/) at Dartmouth College. -->
+
+<!-- My main research fields include but are not limited to **Information Extraction** and **Pre-trained Language Model**. Recently, I have been studying **Emotion Analysis in Conversations** intensively.
