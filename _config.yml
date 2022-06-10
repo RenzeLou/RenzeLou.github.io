@@ -83,13 +83,13 @@ author:
   name             : "Renze Lou"
   avatar           : "Reza_photo_05_2022.jpg"
   bio              : "A student who is interested in Natural Language Processing"
-  location         : "Hangzhou, China"
+  location         : "Guangdong, China"
   # employer         :
   # pubmed           : 
-  googlescholar    : # "https://scholar.google.com/citations?user=GVTbSPMAAAAJ&hl=zh-CN"
+  # googlescholar    : "https://scholar.google.com/citations?user=GVTbSPMAAAAJ&hl=zh-CN"
   email            : "marionojump0722@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :  https://blog.csdn.net/weixin_43301333?spm=1001.2101.3001.5343
+  # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  # uri              :  https://blog.csdn.net/weixin_43301333?spm=1001.2101.3001.5343
   bitbucket        :
   codepen          :
   dribbble         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.cn/incareer/in/renze-lou-b681b51a0"
   orcid            : "https://orcid.org/0000-0002-3273-0097?lang=en"
   pinterest        :
   soundcloud       :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  blog             : https://blog.csdn.net/weixin_43301333?spm=1001.2101.3001.5343
 
 
 # Reading Files
