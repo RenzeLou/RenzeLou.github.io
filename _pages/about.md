@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student at Temple University, supervised by Prof. [Wengpen Yin](https://sites.google.com/site/yinwenpeng1987/). My research interests include but are not limited to **Information Extraction** and **Pre-trained Language Model**. Recently, I have been studying **Emotion Analysis in Conversations** intensively.
+I am a first-year PhD student at Temple University, supervised by Prof. [Wenpeng Yin](https://sites.google.com/site/yinwenpeng1987/). My research interests include but are not limited to **Information Extraction** and **Pre-trained Language Model**. Recently, I have been studying **Emotion Analysis in Conversations** intensively.
 
 ## Updates:
-- June 2022: Two of our works submitted to EMNLP 2022.
-- May 2022: Recieve several PhD offers, choose Temple University finally. 
-- April 2022: One of my works submitted to ARR Apr. 
-- February 2022: One of my works submitted to ARR Feb. 
-- October 2021: Come to CUHK-SZ, research assistantship, advised by Prof. Yan Song.
-- Augest 2021: One of my works accepted by EMNLP 2021.
+- June 2022: Two of our works were submitted to EMNLP 2022.
+- May 2022: I received several Ph.D. offers and chose Temple University finally. 
+- April 2022: One of my works was submitted to ARR Apr. 
+- February 2022: One of my works was submitted to ARR Feb. 
+- October 2021: I came to CUHK-SZ and recieved a research assistantship, advised by Prof. Yan Song.
+- Augest 2021: One of my works was accepted by EMNLP 2021.
 
 
 ## Research Experience:
