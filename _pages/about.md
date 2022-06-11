@@ -25,7 +25,7 @@ I am a first-year PhD student at Temple University, supervised by Prof. [Wenpeng
 - **Research Intern**. Tsinghua Shenzhen International Graduate School, Jun. 2020 ~ Oct. 2020, advised by Prof. [Yujiu Yang](https://www.researchgate.net/profile/Yujiu-Yang).
 - **Research Assistant**. Zhejiang University City College, Jul. 2020 ~ Mar. 2021, advised by Prof. [Lin Sun](https://scholar.google.com/citations?user=48cqMXkAAAAJ&hl=zh-CN).
 
-## Selected Publications
+## Selected Publications:
 
 (* indicate equal contribution)
 
@@ -39,7 +39,7 @@ I am a first-year PhD student at Temple University, supervised by Prof. [Wenpeng
 - Outstanding Graduates of Zhejiang Province, awarded by Zhejiang Provincial Government, 2022
 - Zhejiang Provincial Government Scholarship, awarded by Zhejiang Provincial Government, 2021
   
-## Services
+## Services:
 
 **External Reviewer**: EMNLP2021; IJCAI 2021; JISF.
 
