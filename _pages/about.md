@@ -14,7 +14,8 @@ I am a first-year PhD student at Temple University, supervised by Prof. [Wenpeng
 - Jun. 2022: Two of our works were submitted to EMNLP 2022.
 - May 2022: **I received several Ph.D. offers and chose Temple University finally.** 
 - Apr. 2022: One of my works was submitted to ARR Apr. 
-- Feb. 2022: One of my works was submitted to ARR Feb. 
+- Mar. 2022: Released a collation of massive QA corpora (i.e., [Datasets for Question Answering](https://github.com/RenzeLou/Datasets-for-Question-Answering)). 
+- Jan. 2022: Awarded "Outstanding Technical Contribution Bonus for OpenVINO" from Intel.
 - Oct. 2021: I came to CUHK-SZ and recieved a research assistantship, advised by Prof. Yan Song.
 - Aug. 2021: **One of my works was accepted by EMNLP 2021.**
 
@@ -34,6 +35,11 @@ I am a first-year PhD student at Temple University, supervised by Prof. [Wenpeng
 3. Yutong Wang\*, **Renze Lou** \*, Kai Zhang \*, Maoyan Chen and Yujiu Yang. MORE: A Metric Learning Based Framework for Open-Domain Relation Extraction. In ICASSP 2021.
 4. **Renze Lou**\*, Fan Zhang\*, Xiaowei Zhou, Yutong Wang, Minghui Wu, Lin Sun. A Unified Representation Learning Strategy for Open Relation Extraction with Ranked List Loss. In CCL 2021.
 
+Selected Awards:
+- Outstanding Technical Contribution Bonus for OpenVINO, awarded by Intel, 2022
+- Outstanding Graduates of Zhejiang Province, awarded by Zhejiang Provincial Government, 2022
+- Zhejiang Provincial Government Scholarship, awarded by Zhejiang Provincial Government, 2021
+  
 ## Services
 
 **External Reviewer**: EMNLP2021; IJCAI 2021; JISF.
