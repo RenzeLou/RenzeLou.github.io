@@ -46,5 +46,4 @@ I am a first-year PhD student at Temple University, supervised by Prof. [Wenpeng
 **Leadership**: Co-Founder of [CCAi](https://github.com/ZUCC-AI).
 
 
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=dc26DYNe0X1PgCNiVzcfGP8oPNLgTbiwGE77MJThVnw&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=efe2e2&w=250&t=tt&d=dc26DYNe0X1PgCNiVzcfGP8oPNLgTbiwGE77MJThVnw&cmn=c4200c&cmo=c297dd&co=3899dd'></script>
