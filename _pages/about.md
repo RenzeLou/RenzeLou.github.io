@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student at Temple University, supervised by Prof. [Wenpeng Yin](https://sites.google.com/site/yinwenpeng1987/). My research interests include but are not limited to **Information Extraction** and **Pre-trained Language Model**. Recently, I have been studying **Emotion Analysis in Conversations** intensively.
+I am now a first-year PhD student at Temple University (2022 fall enrollment), supervised by Prof. [Wenpeng Yin](https://sites.google.com/site/yinwenpeng1987/). Before TU, I was a undergraduate at Zhejiang University City College, cooperated with Prof. [Lin Sun](https://scholar.google.com/citations?user=48cqMXkAAAAJ&hl=zh-CN) and Dr. [Kai Zhang](https://drogozhang.github.io/).
+
+My research interests include but are not limited to **Information Extraction** and **Pre-trained Language Model**. Recently, I have been studying **Emotion Analysis in Conversations** intensively.
 
 ## Updates:
 - Jun. 2022: Two of our works were submitted to EMNLP 2022.
