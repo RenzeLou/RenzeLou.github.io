@@ -16,7 +16,7 @@ My research interests include but are not limited to **Information Extraction** 
 - Jun. 2022: Two of our works were submitted to EMNLP 2022.
 - May 2022: **I received several Ph.D. offers and chose Temple University finally.**  
 - Mar. 2022: Released a collation of massive QA corpora (i.e., [Datasets for Question Answering](https://github.com/RenzeLou/Datasets-for-Question-Answering)). 
-- Jan. 2022: Awarded "Outstanding Technical Contribution Bonus for OpenVINO" from Intel.
+- Jan. 2022: Awarded "Outstanding Technical Contribution Grant for OpenVINO" from Intel.
 - Oct. 2021: I came to CUHK-SZ and recieved a research assistantship, advised by Prof. Yan Song.
 - Aug. 2021: **One of my works was accepted by EMNLP 2021.**
 
@@ -37,7 +37,7 @@ My research interests include but are not limited to **Information Extraction** 
 4. **Renze Lou**\*, Fan Zhang\*, Xiaowei Zhou, Yutong Wang, Minghui Wu, Lin Sun. A Unified Representation Learning Strategy for Open Relation Extraction with Ranked List Loss. In CCL 2021.
 
 ## Selected Awards:
-- Outstanding Technical Contribution Bonus for OpenVINO, awarded by Intel, 2022
+- Outstanding Technical Contribution Grant for OpenVINO, awarded by Intel, 2022
 - Outstanding Graduates of Zhejiang Province, awarded by Zhejiang Provincial Government, 2022
 - Zhejiang Provincial Government Scholarship, awarded by Zhejiang Provincial Government, 2021
   
