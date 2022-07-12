@@ -43,7 +43,7 @@ My research interests include but are not limited to **Information Extraction** 
   
 ## Services:
 
-**External Reviewer**: EMNLP2021; IJCAI 2021; JISF.
+**External Reviewer**: EMNLP 2022, 2021; IJCAI 2021; JISF.
 
 **Leadership**: Co-Founder of [CCAi](https://github.com/ZUCC-AI).
 
