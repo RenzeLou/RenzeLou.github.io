@@ -12,8 +12,8 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+  - title: "Blog"
+    url: https://blog.csdn.net/weixin_43301333?spm=1010.2135.3001.5343
     
   - title: "CV"
     url: RenzeLou_CV_1.24.pdf
