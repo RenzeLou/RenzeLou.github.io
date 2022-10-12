@@ -8,33 +8,42 @@ redirect_from:
   - /about.html
 ---
 
-I am now a first-year PhD student at Temple University (2022 fall enrollment), supervised by Prof. [Wenpeng Yin](https://sites.google.com/site/yinwenpeng1987/). Before TU, I was an undergraduate at Zhejiang University City College, advised by Prof. [Lin Sun](https://scholar.google.com/citations?user=48cqMXkAAAAJ&hl=zh-CN) and Dr. [Kai Zhang](https://drogozhang.github.io/).
+I am a first-year PhD student at Temple University, and I am glad to be supervised by Prof. [Wenpeng Yin](https://sites.google.com/site/yinwenpeng1987/). Before TU, I was an undergraduate at Zhejiang University City College, advised by Prof. [Lin Sun](https://scholar.google.com/citations?user=48cqMXkAAAAJ&hl=zh-CN).
 
-My research interests include but are not limited to **Information Extraction** and **Pre-trained Language Model**. Recently, I have been studying **Emotion Analysis in Conversations** intensively.
+My current research interest focuses on **Learning from Task Instructions**, but I was also familiar with **Information Extraction**, **Pre-trained Language Model** and **Emotion Analysis**.
+
+<!-- 
+My research interests include but are not limited to . Recently, I have been studying **Emotion Analysis in Conversations** intensively. -->
 
 ## Updates:
-- Jun. 2022: Two of our works were submitted to EMNLP 2022.
-- May 2022: **I received several Ph.D. offers and chose Temple University finally.**  
-- Mar. 2022: Released a collation of massive QA corpora (i.e., [Datasets for Question Answering](https://github.com/RenzeLou/Datasets-for-Question-Answering)). 
+- **<font color="#dd0000">Important: Our group will move to Penn State University (PSU) in Jan. 2023, welcome to more new members in the future!</font><br/>**
+- Oct. 2022: One paper accepted by EMNLP 2022.
+- Jun. 2022: Two papers submitted to EMNLP 2022.
+- May 2022: **I received several Ph.D. offers and chose Temple University finally.**   
 - Jan. 2022: Awarded "Outstanding Technical Contribution Grant for OpenVINO" from Intel.
 - Oct. 2021: I came to CUHK-SZ and recieved a research assistantship, advised by Prof. Yan Song.
-- Aug. 2021: **One of my works was accepted by EMNLP 2021.**
 
+<!-- 
+- Mar. 2022: Released a collation of massive QA corpora (i.e., [Datasets for Question Answering](https://github.com/RenzeLou/Datasets-for-Question-Answering)).
+- Aug. 2021: **One of my works was accepted by EMNLP 2021.**
+-->
 
 ## Research Experience:
-- **Research Assistant**. The Chinese University of Hongkong (Shenzhen), Oct. 2021 ~ May 2022, cooperated with Prof. [Yan Song](https://clksong.github.io/) and Dr. [Yuanhe Tian](https://scholar.google.com/citations?user=5GCwWZ8AAAAJ&hl=en) (University of Washington). 
-- **Research Intern**. Dartmouth College, Oct. 2020 ~ Aug. 2021, worked closely with Prof. [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/) and Dr. [Weicheng Ma](https://scholar.google.com.hk/citations?user=njnBrb4AAAAJ&hl=zh-CN).
-- **Research Intern**. Tsinghua Shenzhen International Graduate School, Jun. 2020 ~ Oct. 2020, advised by Prof. [Yujiu Yang](https://www.researchgate.net/profile/Yujiu-Yang).
-- **Research Assistant**. Zhejiang University City College, Jul. 2020 ~ Mar. 2021, advised by Prof. [Lin Sun](https://scholar.google.com/citations?user=48cqMXkAAAAJ&hl=zh-CN) and Dr. [Kai Zhang](https://drogozhang.github.io/) (Ohio State University).
+- **Research Assistant**. Temple University, Aug. 2022 ~ Present, supervised by Prof. [Wenpeng Yin](https://sites.google.com/site/yinwenpeng1987/home). 
+- **Research Assistant**. The Chinese University of Hongkong (Shenzhen), Oct. 2021 ~ May 2022, cooperated with Prof. [Yan Song](https://scholar.google.com.hk/citations?hl=en&user=MsRp7g0AAAAJ) and Dr. [Yuanhe Tian](https://scholar.google.com/citations?user=5GCwWZ8AAAAJ&hl=en) (University of Washington). 
+- **Research Intern**. Dartmouth College, Oct. 2020 ~ Aug. 2021, worked closely with Prof. [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/) and Dr. [Weicheng Ma](https://scholar.google.com.hk/citations?user=njnBrb4AAAAJ&hl=en).
+- **Research Intern**. Tsinghua Shenzhen International Graduate School, Jun. 2020 ~ Oct. 2020, advised by Prof. [Yujiu Yang](https://scholar.google.com.hk/citations?hl=en&user=4gH3sxsAAAAJ).
+- **Research Assistant**. Zhejiang University City College, Jul. 2020 ~ Mar. 2021, advised by Prof. [Lin Sun](https://scholar.google.com/citations?user=48cqMXkAAAAJ&hl=en) and Dr. [Kai Zhang](https://drogozhang.github.io/) (Ohio State University).
 
 ## Selected Publications:
 
 (* indicate equal contribution)
 
-1. Weicheng Ma, **Renze Lou** , Kai Zhang, Lili Wang and Soroush Vosoughi. GradTS: A Gradient-Based Automatic Auxiliary Task Selection Method Based on Transformer Networks. In EMNLP 2021.
-2. Weicheng Ma\*, Kai Zhang\*, **Renze Lou**, Lili Wang and Soroush Vosoughi. Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks. In ACL 2021 (**Long Oral**).
-3. Yutong Wang\*, **Renze Lou** \*, Kai Zhang \*, Maoyan Chen and Yujiu Yang. MORE: A Metric Learning Based Framework for Open-Domain Relation Extraction. In ICASSP 2021.
-4. **Renze Lou**\*, Fan Zhang\*, Xiaowei Zhou, Yutong Wang, Minghui Wu, Lin Sun. A Unified Representation Learning Strategy for Open Relation Extraction with Ranked List Loss. In CCL 2021.
+1. Yuanhe Tian, **Renze Lou**, Xiangyu Pang, Lianxi Wang, Shengyi JIANG and Yan Song. Improving English-Arabic Transliteration with Phonemic Memories. In EMNLP (Findings) 2022.
+2. Weicheng Ma, **Renze Lou** , Kai Zhang, Lili Wang and Soroush Vosoughi. GradTS: A Gradient-Based Automatic Auxiliary Task Selection Method Based on Transformer Networks. In EMNLP 2021.
+3. Weicheng Ma\*, Kai Zhang\*, **Renze Lou**, Lili Wang and Soroush Vosoughi. Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks. In ACL 2021 (**Long Oral**).
+4. Yutong Wang\*, **Renze Lou** \*, Kai Zhang \*, Maoyan Chen and Yujiu Yang. MORE: A Metric Learning Based Framework for Open-Domain Relation Extraction. In ICASSP 2021.
+5. **Renze Lou**\*, Fan Zhang\*, Xiaowei Zhou, Yutong Wang, Minghui Wu, Lin Sun. A Unified Representation Learning Strategy for Open Relation Extraction with Ranked List Loss. In CCL 2021.
 
 ## Selected Awards:
 - Outstanding Technical Contribution Grant for OpenVINO, awarded by Intel, 2022
@@ -42,6 +51,7 @@ My research interests include but are not limited to **Information Extraction** 
 - Zhejiang Provincial Government Scholarship, awarded by Zhejiang Provincial Government, 2021
   
 ## Services:
+**PC Member (Reviewer)**: EMNLP 2022.
 
 **External Reviewer**: EMNLP 2022, 2021; IJCAI 2021; JISF.
 
