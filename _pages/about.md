@@ -29,9 +29,7 @@ My research interests include but are not limited to . Recently, I have been stu
 -->
 
 ## Research Experience:
-- **Research Assistant** @ Temple University.
-  
-  \-- Supervised by Prof. [Wenpeng Yin](https://scholar.google.com/citations?user=mRg16LkAAAAJ&hl=en). Aug. 2022 ~ Present.
+- **Research Assistant** @ Temple University. <br> \-- Supervised by Prof. [Wenpeng Yin](https://scholar.google.com/citations?user=mRg16LkAAAAJ&hl=en). Aug. 2022 ~ Present.
 - **Research Assistant** @ The Chinese University of Hongkong (Shenzhen).
   
   \-- Cooperated with Prof. [Yan Song](https://scholar.google.com.hk/citations?hl=en&user=MsRp7g0AAAAJ) and Dr. [Yuanhe Tian](https://scholar.google.com/citations?user=5GCwWZ8AAAAJ&hl=en) (University of Washington). Oct. 2021 ~ May 2022. 
