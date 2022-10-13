@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student at Temple University, and I am glad to be supervised by Prof. [Wenpeng Yin](https://sites.google.com/site/yinwenpeng1987/). Before TU, I was an undergraduate at Zhejiang University City College, advised by Prof. [Lin Sun](https://scholar.google.com/citations?user=48cqMXkAAAAJ&hl=zh-CN).
+I am a first-year PhD student at Temple University, and I am glad to be supervised by Prof. [Wenpeng Yin](https://sites.google.com/site/yinwenpeng1987/). Before TU, I was an undergraduate at Zhejiang University City College, advised by Prof. [Lin Sun](https://scholar.google.com/citations?user=48cqMXkAAAAJ&hl=en).
 
 My current research interest focuses on **Learning from Task Instructions**, but I am also familiar with **Information Extraction**, **Pre-trained Language Models**, and **Emotion Analysis**.
 
@@ -29,26 +29,39 @@ My research interests include but are not limited to . Recently, I have been stu
 -->
 
 ## Research Experience:
-- **Research Assistant**. Temple University, Aug. 2022 ~ Present, supervised by Prof. [Wenpeng Yin](https://scholar.google.com/citations?user=mRg16LkAAAAJ&hl=en). 
-- **Research Assistant**. The Chinese University of Hongkong (Shenzhen), Oct. 2021 ~ May 2022, cooperated with Prof. [Yan Song](https://scholar.google.com.hk/citations?hl=en&user=MsRp7g0AAAAJ) and Dr. [Yuanhe Tian](https://scholar.google.com/citations?user=5GCwWZ8AAAAJ&hl=en) (University of Washington). 
-- **Research Intern**. Dartmouth College, Oct. 2020 ~ Aug. 2021, worked closely with Prof. [Soroush Vosoughi](https://scholar.google.com.hk/citations?user=45DAXkwAAAAJ&hl=en) and Dr. [Weicheng Ma](https://scholar.google.com.hk/citations?user=njnBrb4AAAAJ&hl=en).
-- **Research Intern**. Tsinghua Shenzhen International Graduate School, Jun. 2020 ~ Oct. 2020, advised by Prof. [Yujiu Yang](https://scholar.google.com.hk/citations?hl=en&user=4gH3sxsAAAAJ).
-- **Research Assistant**. Zhejiang University City College, Jul. 2020 ~ Mar. 2021, advised by Prof. [Lin Sun](https://scholar.google.com/citations?user=48cqMXkAAAAJ&hl=en) and Dr. [Kai Zhang](https://scholar.google.com/citations?user=sDnAIsgAAAAJ&hl=en) (Ohio State University).
+- **Research Assistant** @ Temple University.
+  \-- Supervised by Prof. [Wenpeng Yin](https://scholar.google.com/citations?user=mRg16LkAAAAJ&hl=en). Aug. 2022 ~ Present.
+- **Research Assistant** @ The Chinese University of Hongkong (Shenzhen).
+  \-- Cooperated with Prof. [Yan Song](https://scholar.google.com.hk/citations?hl=en&user=MsRp7g0AAAAJ) and Dr. [Yuanhe Tian](https://scholar.google.com/citations?user=5GCwWZ8AAAAJ&hl=en) (University of Washington). Oct. 2021 ~ May 2022. 
+- **Research Intern** @ Dartmouth College. 
+  \-- Worked closely with Prof. [Soroush Vosoughi](https://scholar.google.com.hk/citations?user=45DAXkwAAAAJ&hl=en) and Dr. [Weicheng Ma](https://scholar.google.com.hk/citations?user=njnBrb4AAAAJ&hl=en). Oct. 2020 ~ Aug. 2021. 
+- **Research Intern** @ Tsinghua Shenzhen International Graduate School.
+  \-- Advised by Prof. [Yujiu Yang](https://scholar.google.com.hk/citations?hl=en&user=4gH3sxsAAAAJ). Jun. 2020 ~ Oct. 2020. 
+- **Research Assistant** @ Zhejiang University City College. 
+  \-- Advised by Prof. [Lin Sun](https://scholar.google.com/citations?user=48cqMXkAAAAJ&hl=en) and Dr. [Kai Zhang](https://scholar.google.com/citations?user=sDnAIsgAAAAJ&hl=en) (Ohio State University). Jul. 2020 ~ Mar. 2021. 
 
 ## Selected Publications:
 
-(* indicate equal contribution)
+(<font size=4> * </font> indicates equal contribution)
 
-1. Yuanhe Tian, **Renze Lou**, Xiangyu Pang, Lianxi Wang, Shengyi JIANG and Yan Song. Improving English-Arabic Transliteration with Phonemic Memories. In EMNLP (Findings) 2022.
-2. Weicheng Ma, **Renze Lou** , Kai Zhang, Lili Wang and Soroush Vosoughi. GradTS: A Gradient-Based Automatic Auxiliary Task Selection Method Based on Transformer Networks. In EMNLP 2021.
-3. Weicheng Ma\*, Kai Zhang\*, **Renze Lou**, Lili Wang and Soroush Vosoughi. Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks. In ACL 2021 (**Long Oral**).
-4. Yutong Wang\*, **Renze Lou** \*, Kai Zhang \*, Maoyan Chen and Yujiu Yang. MORE: A Metric Learning Based Framework for Open-Domain Relation Extraction. In ICASSP 2021.
-5. **Renze Lou**\*, Fan Zhang\*, Xiaowei Zhou, Yutong Wang, Minghui Wu, Lin Sun. A Unified Representation Learning Strategy for Open Relation Extraction with Ranked List Loss. In CCL 2021.
+1. Yuanhe Tian, **Renze Lou**, Xiangyu Pang, Lianxi Wang, Shengyi JIANG and Yan Song. <u>Improving English-Arabic Transliteration with Phonemic Memories</u>. *In EMNLP-Findings 2022*.
+  [[Paper]()]; [[Code]()]
+2. Weicheng Ma, **Renze Lou** , Kai Zhang, Lili Wang and Soroush Vosoughi. <u>GradTS: A Gradient-Based Automatic Auxiliary Task Selection Method Based on Transformer Networks</u>. *In EMNLP 2021*.
+  [[Paper](https://aclanthology.org/2021.emnlp-main.455/)]; [[Code](https://github.com/RenzeLou/GradTS)]
+3. Weicheng Ma\*, Kai Zhang\*, **Renze Lou**, Lili Wang and Soroush Vosoughi. <u>Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks</u>. *In ACL 2021 (**Long Oral**)*.
+  [[Paper](https://aclanthology.org/2021.acl-long.152/)]; [[Code](https://github.com/hikari-NYU/Contributions-of-Transformer-Attention-Heads-in-Multi--and-Cross-lingual-Tasks)]
+4. Yutong Wang\*, **Renze Lou**\*, Kai Zhang\*, Maoyan Chen and Yujiu Yang. <u>MORE: A Metric Learning Based Framework for Open-Domain Relation Extraction</u>. *In ICASSP 2021*.
+  [[Paper](https://arxiv.org/abs/2206.00289)]; [[Code](https://github.com/RenzeLou/MORE)]
+5. **Renze Lou**\*, Fan Zhang\*, Xiaowei Zhou, Yutong Wang, Minghui Wu, Lin Sun. <u>A Unified Representation Learning Strategy for Open Relation Extraction with Ranked List Loss</u>. *In CCL 2021*.
+  [[Paper](https://aclanthology.org/2021.ccl-1.98/)]; [[Code](https://github.com/RenzeLou/MORE)]
 
 ## Selected Awards:
-- Outstanding Technical Contribution Grant for OpenVINO, awarded by Intel, 2022
-- Outstanding Graduates of Zhejiang Province, awarded by Zhejiang Provincial Government, 2022
-- Zhejiang Provincial Government Scholarship, awarded by Zhejiang Provincial Government, 2021
+- Outstanding Technical Contribution Grant for OpenVINO.
+  \-- Awarded by Intel, 2022.
+- Outstanding Graduates of Zhejiang Province.
+  \-- Awarded by Zhejiang Provincial Government, 2022.
+- Zhejiang Provincial Government Scholarship.
+  \-- Awarded by Zhejiang Provincial Government, 2021.
   
 ## Services:
 **PC Member (Reviewer)**: EMNLP 2022.
