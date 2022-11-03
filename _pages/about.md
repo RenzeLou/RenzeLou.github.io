@@ -30,10 +30,10 @@ My research interests include but are not limited to . Recently, I have been stu
 
 ## Research Experience:
 - **Research Assistant** @ Temple University. <br> \-- Supervised by Prof. [Wenpeng Yin](https://scholar.google.com/citations?user=mRg16LkAAAAJ&hl=en). Aug. 2022 ~ Present.
-- **Research Assistant** @ The Chinese University of Hongkong (Shenzhen). <br> \-- Cooperated with Prof. [Yan Song](https://scholar.google.com.hk/citations?hl=en&user=MsRp7g0AAAAJ) and Dr. [Yuanhe Tian](https://scholar.google.com/citations?user=5GCwWZ8AAAAJ&hl=en) (University of Washington). Oct. 2021 ~ May 2022. 
-- **Research Intern** @ Dartmouth College. <br> \-- Worked closely with Prof. [Soroush Vosoughi](https://scholar.google.com.hk/citations?user=45DAXkwAAAAJ&hl=en) and Dr. [Weicheng Ma](https://scholar.google.com.hk/citations?user=njnBrb4AAAAJ&hl=en). Oct. 2020 ~ Aug. 2021. 
+- **Research Assistant** @ The Chinese University of Hongkong (Shenzhen). <br> \-- Cooperated with Prof. [Yan Song](https://scholar.google.com.hk/citations?hl=en&user=MsRp7g0AAAAJ) and [Yuanhe Tian](https://scholar.google.com/citations?user=5GCwWZ8AAAAJ&hl=en) (University of Washington). Oct. 2021 ~ May 2022. 
+- **Research Intern** @ Dartmouth College. <br> \-- Worked closely with Prof. [Soroush Vosoughi](https://scholar.google.com.hk/citations?user=45DAXkwAAAAJ&hl=en) and [Weicheng Ma](https://scholar.google.com.hk/citations?user=njnBrb4AAAAJ&hl=en). Oct. 2020 ~ Aug. 2021. 
 - **Research Intern** @ Tsinghua Shenzhen International Graduate School. <br> \-- Advised by Prof. [Yujiu Yang](https://scholar.google.com.hk/citations?hl=en&user=4gH3sxsAAAAJ). Jun. 2020 ~ Oct. 2020. 
-- **Research Assistant** @ Zhejiang University City College. <br> \-- Advised by Prof. [Lin Sun](https://scholar.google.com/citations?user=48cqMXkAAAAJ&hl=en) and Dr. [Kai Zhang](https://scholar.google.com/citations?user=sDnAIsgAAAAJ&hl=en) (Ohio State University). Jul. 2020 ~ Mar. 2021. 
+- **Research Assistant** @ Zhejiang University City College. <br> \-- Advised by Prof. [Lin Sun](https://scholar.google.com/citations?user=48cqMXkAAAAJ&hl=en) and [Kai Zhang](https://scholar.google.com/citations?user=sDnAIsgAAAAJ&hl=en) (Ohio State University). Jul. 2020 ~ Mar. 2021. 
 
 ## Selected Publications:
 
