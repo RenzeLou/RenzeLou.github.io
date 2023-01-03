@@ -17,7 +17,7 @@ My research interests include but are not limited to . Recently, I have been stu
 
 ## Updates:
 <!-- - **<font color="#dd0000">Important: Our group will move to Penn State University (PSU) in Jan. 2023, and welcome more new members in the future!</font><br/>** -->
-- Jan. 2023: ** Moved to Penn State University.** Goodbye, Temple.
+- Jan. 2023: **Moved to Penn State University.** Goodbye, Temple.
 - Oct. 2022: One paper accepted by EMNLP 2022.
 - Aug. 2022: Began my PhD journey at Temple University.
 <!-- - Jun. 2022: Two papers submitted to EMNLP 2022. -->
