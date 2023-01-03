@@ -12,10 +12,10 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
 
-  - title: "Curriculum Vitae"
-    url: RenzeLou_CV_10.13.2022.pdf
+  - title: "CV"
+    url: RenzeLou_CV_01.03.2023.pdf
         
-  - title: "Blog"
+  - title: "Blog (Chinese)"
     url: https://blog.csdn.net/weixin_43301333?spm=1010.2135.3001.5343
     
   # - title: "Guide"

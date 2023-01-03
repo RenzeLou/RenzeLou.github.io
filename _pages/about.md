@@ -8,18 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student at Temple University, and I am glad to be supervised by Prof. [Wenpeng Yin](https://sites.google.com/site/yinwenpeng1987/). Before TU, I was an undergraduate at Zhejiang University City College, advised by Prof. [Lin Sun](https://scholar.google.com/citations?user=48cqMXkAAAAJ&hl=en).
+I am a first-year PhD candidate at Penn State University, and I am glad to be supervised by Prof. [Wenpeng Yin](https://sites.google.com/site/yinwenpeng1987/). Before PSU, I was an undergraduate at Zhejiang University City College, advised by Prof. [Lin Sun](https://scholar.google.com/citations?user=48cqMXkAAAAJ&hl=en).
 
-My current research interest focuses on **Learning from Task Instructions**, but I am also familiar with **Information Extraction**, **Pre-trained Language Models**, and **Emotion Analysis**.
+My current research interest focuses on **Learning from Task Instructions**, but I am also familiar with **Information Extraction**, **Multi-task Learning**, and **Emotion Analysis**.
 
 <!-- 
 My research interests include but are not limited to . Recently, I have been studying **Emotion Analysis in Conversations** intensively. -->
 
 ## Updates:
-- **<font color="#dd0000">Important: Our group will move to Penn State University (PSU) in Jan. 2023, and welcome more new members in the future!</font><br/>**
+<!-- - **<font color="#dd0000">Important: Our group will move to Penn State University (PSU) in Jan. 2023, and welcome more new members in the future!</font><br/>** -->
+- Jan. 2023: ** Moved to Penn State University.** Goodbye, Temple.
 - Oct. 2022: One paper accepted by EMNLP 2022.
-- Jun. 2022: Two papers submitted to EMNLP 2022.
-- May 2022: **I received several Ph.D. offers and chose Temple University finally.**   
+- Aug. 2022: Began my PhD journey at Temple University.
+<!-- - Jun. 2022: Two papers submitted to EMNLP 2022. -->
+- Jun. 2022: Recieved Bachelor's degree. Goodbye, ZUCC.
+<!-- - May 2022: **I received several Ph.D. offers and chose Temple University finally.**    -->
 - Jan. 2022: Awarded "Outstanding Technical Contribution Grant for OpenVINO" from Intel.
 - Oct. 2021: I came to CUHK-SZ and recieved a research assistantship, advised by Prof. Yan Song.
 
@@ -29,7 +32,7 @@ My research interests include but are not limited to . Recently, I have been stu
 -->
 
 ## Research Experience:
-- **Research Assistant** @ Temple University. <br> \-- Supervised by Prof. [Wenpeng Yin](https://scholar.google.com/citations?user=mRg16LkAAAAJ&hl=en). Aug. 2022 ~ Present.
+- **Research Assistant** @ Penn State University. <br> \-- Supervised by Prof. [Wenpeng Yin](https://scholar.google.com/citations?user=mRg16LkAAAAJ&hl=en). Aug. 2022 ~ Present.
 - **Research Assistant** @ The Chinese University of Hongkong (Shenzhen). <br> \-- Cooperated with Prof. [Yan Song](https://scholar.google.com.hk/citations?hl=en&user=MsRp7g0AAAAJ) and [Yuanhe Tian](https://scholar.google.com/citations?user=5GCwWZ8AAAAJ&hl=en) (University of Washington). Oct. 2021 ~ May 2022. 
 - **Research Intern** @ Dartmouth College. <br> \-- Worked closely with Prof. [Soroush Vosoughi](https://scholar.google.com.hk/citations?user=45DAXkwAAAAJ&hl=en) and [Weicheng Ma](https://scholar.google.com.hk/citations?user=njnBrb4AAAAJ&hl=en). Oct. 2020 ~ Aug. 2021. 
 - **Research Intern** @ Tsinghua Shenzhen International Graduate School. <br> \-- Advised by Prof. [Yujiu Yang](https://scholar.google.com.hk/citations?hl=en&user=4gH3sxsAAAAJ). Jun. 2020 ~ Oct. 2020. 
@@ -51,7 +54,7 @@ My research interests include but are not limited to . Recently, I have been stu
 - Zhejiang Provincial Government Scholarship. <br> \-- Awarded by Zhejiang Provincial Government, 2021.
   
 ## Services:
-**PC Member (Reviewer)**: EMNLP 2022.
+**PC Member (Reviewer)**: ACL 2023; EMNLP 2022.
 
 **External Reviewer**: EMNLP 2022, 2021; IJCAI 2021; JISF.
 
