@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD candidate at Penn State University, and I am glad to be supervised by Prof. [Wenpeng Yin](https://sites.google.com/site/yinwenpeng1987/). Before PSU, I was an undergraduate at Zhejiang University City College, advised by Prof. [Lin Sun](https://scholar.google.com/citations?user=48cqMXkAAAAJ&hl=en).
+My name is Renze Lou ( *楼仁泽* ), a first-year PhD candidate at Penn State University. I am glad to be supervised by Prof. [Wenpeng Yin](https://sites.google.com/site/yinwenpeng1987/). Before PSU, I was an undergraduate at Zhejiang University City College, advised by Prof. [Lin Sun](https://scholar.google.com/citations?user=48cqMXkAAAAJ&hl=en).
 
 My current research interest focuses on **Learning from Task Instructions**, but I am also familiar with **Information Extraction**, **Multi-task Learning**, and **Emotion Analysis**.
 
