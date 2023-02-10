@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Reza's Website"
 title_separator          : "-"
 name                     : &name "Renze Lou"
-description              : &description "A hard-working student who is interested in Natural Language Processing"
+description              : &description "楼仁泽"
 url                      : https://renzelou.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "RenzeLou/RenzeLou.github.io"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Renze Lou"
+  name             : "Renze Lou (楼仁泽)"
   avatar           : "Reza_photo_05_2022_clip_again.jpg"
   bio              : "PhD @ PSU"
   location         : "State College, PA"
   # employer         :
   # pubmed           : 
-  # googlescholar    : "https://scholar.google.com/citations?user=GVTbSPMAAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com/citations?hl=en"
   email            : "marionojump0722@gmail.com"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   # uri              :  https://blog.csdn.net/weixin_43301333?spm=1001.2101.3001.5343
