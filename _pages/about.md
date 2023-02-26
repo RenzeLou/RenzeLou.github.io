@@ -17,7 +17,7 @@ My research interests include but are not limited to . Recently, I have been stu
 
 ## Updates:
 <!-- - **<font color="#dd0000">Important: Our group will move to Penn State University (PSU) in Jan. 2023, and welcome more new members in the future!</font><br/>** -->
-- Feb. 2023: One paper accepted by ICASSP 2023. It's my first time to instruct an undergraduate through the whole project!
+- Feb. 2023: One paper accepted by ICASSP 2023. It's my first time supervising an undergraduate through the whole project!
 - Jan. 2023: **Moved to Penn State University.** Goodbye, Temple.
 - Oct. 2022: One paper accepted by EMNLP 2022.
 - Aug. 2022: Began my PhD journey at Temple University.
@@ -46,7 +46,7 @@ My research interests include but are not limited to . Recently, I have been stu
 (<font size=4> * </font> indicates equal contribution)
 
 1. Yuanhe Tian, **Renze Lou**, Xiangyu Pang, Lianxi Wang, Shengyi JIANG and Yan Song. <u>Improving English-Arabic Transliteration with Phonemic Memories</u>. *In EMNLP-Findings 2022*. <br> [[Paper](https://aclanthology.org/2022.findings-emnlp.238)]; [[Data](https://github.com/synlp/EATrans)]
-2. Xiaojie Gu, **Renze Lou**, Lin Sun, Shangxin Li. <u>PAGE: A Position-Aware Graph-Based Model for Emotion Cause Entailment in Conversation</u>. *In ICASSP 2023*. **Advised undergraduates on research.** <br> [[Paper]()]; [[Code]()]
+2. Xiaojie Gu, **Renze Lou**, Lin Sun, Shangxin Li. <u>PAGE: A Position-Aware Graph-Based Model for Emotion Cause Entailment in Conversation</u>. *In ICASSP 2023*. <br> [[Paper]()]; [[Code]()]
 3. Weicheng Ma, **Renze Lou** , Kai Zhang, Lili Wang and Soroush Vosoughi. <u>GradTS: A Gradient-Based Automatic Auxiliary Task Selection Method Based on Transformer Networks</u>. *In EMNLP 2021*. <br> [[Paper](https://aclanthology.org/2021.emnlp-main.455/)]; [[Code](https://github.com/RenzeLou/GradTS)]
 4. Weicheng Ma\*, Kai Zhang\*, **Renze Lou**, Lili Wang and Soroush Vosoughi. <u>Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks</u>. *In ACL 2021 (**Long Oral**)*. <br> [[Paper](https://aclanthology.org/2021.acl-long.152/)]; [[Code](https://github.com/hikari-NYU/Contributions-of-Transformer-Attention-Heads-in-Multi--and-Cross-lingual-Tasks)]
 5. **Renze Lou**\*, Yutong Wang\*, Kai Zhang\*, Maoyan Chen and Yujiu Yang. <u>MORE: A Metric Learning Based Framework for Open-Domain Relation Extraction</u>. *In ICASSP 2021*. <br> [[Paper](https://arxiv.org/abs/2206.00289)]; [[Code](https://github.com/RenzeLou/MORE)]
