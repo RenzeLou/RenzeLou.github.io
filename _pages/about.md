@@ -17,6 +17,7 @@ My research interests include but are not limited to . Recently, I have been stu
 
 ## Updates:
 <!-- - **<font color="#dd0000">Important: Our group will move to Penn State University (PSU) in Jan. 2023, and welcome more new members in the future!</font><br/>** -->
+- Mar. 2023: 🔥🔥🔥 <font color="#dd0000">We released a comprehensive **[reading list](https://github.com/RenzeLou/awesome-instruction-learning)** (more than 140 papers) on Instruction Learning!</font> The corresponding survey is coming soon! 🚀🚀🚀
 - Feb. 2023: One paper accepted by ICASSP 2023. It was my first time supervising undergraduates through the whole project!
 - Jan. 2023: **Moved to Penn State University.** Goodbye, Temple.
 - Oct. 2022: One paper accepted by EMNLP 2022.
@@ -24,8 +25,8 @@ My research interests include but are not limited to . Recently, I have been stu
 <!-- - Jun. 2022: Two papers submitted to EMNLP 2022. -->
 - Jun. 2022: Recieved Bachelor's degree. Goodbye, ZUCC.
 <!-- - May 2022: **I received several Ph.D. offers and chose Temple University finally.**    -->
-- Jan. 2022: Awarded "Outstanding Technical Contribution" from Intel.
-- Oct. 2021: I came to CUHK-SZ and recieved a research assistantship.
+<!-- - Jan. 2022: Awarded "Outstanding Technical Contribution" from Intel. -->
+<!-- - Oct. 2021: I came to CUHK-SZ and recieved a research assistantship. -->
 <!-- -  advised by Prof. Yan Song. -->
 <!-- Grant for OpenVINO -->
 
