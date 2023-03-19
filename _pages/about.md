@@ -17,7 +17,7 @@ My research interests include but are not limited to . Recently, I have been stu
 
 ## Updates:
 <!-- - **<font color="#dd0000">Important: Our group will move to Penn State University (PSU) in Jan. 2023, and welcome more new members in the future!</font><br/>** -->
-- Mar. 2023: 🔥🔥🔥 <font color="#dd0000">We released a comprehensive **[reading list](https://github.com/RenzeLou/awesome-instruction-learning)** (more than 140 papers) on Instruction Learning!</font> The corresponding survey is coming soon! 🚀🚀🚀
+- Mar. 2023: 🔥🔥🔥 **<font color="#dd0000">We released a comprehensive [reading list](https://github.com/RenzeLou/awesome-instruction-learning) (more than 140 papers) on Instruction Learning!</font>** The corresponding survey is coming soon! 🚀🚀🚀
 - Feb. 2023: One paper accepted by ICASSP 2023. It was my first time supervising undergraduates through the whole project!
 - Jan. 2023: **Moved to Penn State University.** Goodbye, Temple.
 - Oct. 2022: One paper accepted by EMNLP 2022.
