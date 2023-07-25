@@ -10,7 +10,7 @@ redirect_from:
 
 My name is Renze Lou ( *楼仁泽* ), a first-year PhD candidate at Penn State University. I am glad to be supervised by Prof. [Wenpeng Yin](https://sites.google.com/site/yinwenpeng1987/). Before PSU, I was an undergraduate at Zhejiang University City College, advised by Prof. [Lin Sun](https://scholar.google.com/citations?user=48cqMXkAAAAJ&hl=en).
 
-My current research interest focuses on **Large Language Models** and **Instruction Tuning**. <font color="#df1a7d">I am actively looking for research collaborators</font> (no matter PhD, master, or undergraduate students). If you are interested, feel free to reach out at [rml6079@psu.edu](rml6079@psu.edu).
+My current research interest focuses on **Large Language Models** and **Instruction Tuning** 🤖. <font color="#df1a7d">I am actively looking for research collaborators</font> (no matter PhD, master, or undergraduate students). If you are interested, feel free to reach out via email 🤗.
 
 <!-- 
 My research interests include but are not limited to . Recently, I have been studying **Emotion Analysis in Conversations** intensively. -->
@@ -66,6 +66,11 @@ My research interests include but are not limited to . Recently, I have been stu
 **External Reviewer**: NLPCC 2023; CCL 2023; StarSEM 2023; EMNLP 2022, 2021; IJCAI 2021; JISF.
 
 **Leadership**: Co-Founder of [CCAi](https://github.com/ZUCC-AI).
+
+
+## Contact:
+- **Email**: <u>*renze.lou (at) psu (dot) edu*</u>
+- **Average Response Time**: <u>within 24 hours</u> (I constantly check my email)
 
 
 ------------
