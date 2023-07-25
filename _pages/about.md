@@ -61,11 +61,11 @@ My research interests include but are not limited to . Recently, I have been stu
 - Zhejiang Provincial Government Scholarship. <br> \-- Awarded by Zhejiang Provincial Government, 2021.
   
 ## Services:
-**PC Member (Reviewer)**: EMNLP 2023; UDMKDD 2023; ToM 2023; ACL 2023; EMNLP 2022; AKBC 2022.
+- **PC Member (Reviewer)**: EMNLP 2023; UDMKDD 2023; ToM 2023; ACL 2023; EMNLP 2022; AKBC 2022.
 
-**External Reviewer**: NLPCC 2023; CCL 2023; StarSEM 2023; EMNLP 2022, 2021; IJCAI 2021; JISF.
+- **External Reviewer**: NLPCC 2023; CCL 2023; StarSEM 2023; EMNLP 2022, 2021; IJCAI 2021; JISF.
 
-**Leadership**: Co-Founder of [CCAi](https://github.com/ZUCC-AI).
+- **Leadership**: Co-Founder of [CCAi](https://github.com/ZUCC-AI).
 
 
 ## Contact:
