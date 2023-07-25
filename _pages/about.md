@@ -69,8 +69,8 @@ My research interests include but are not limited to . Recently, I have been stu
 
 
 ## Contact:
-- **Email**: <u>*renze.lou (at) psu (dot) edu*</u>
-- **Average Response Time**: <u>within 24 hours</u> (I constantly check my email)
+- **Email**: `renze.lou (at) psu (dot) edu`
+- **Average Response Time**: <u>within 24 hours</u> (I constantly check my email).
 
 
 ------------
