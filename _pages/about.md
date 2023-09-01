@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Renze Lou ( *楼仁泽* ), a first-year PhD candidate at Penn State University. I am glad to be supervised by Prof. [Wenpeng Yin](https://sites.google.com/site/yinwenpeng1987/). Before PSU, I was an undergraduate at Zhejiang University City College, advised by Prof. [Lin Sun](https://scholar.google.com/citations?user=48cqMXkAAAAJ&hl=en).
+My name is Renze Lou ( *楼仁泽* ), a first-year PhD student at Penn State University. I am glad to be supervised by Prof. [Wenpeng Yin](https://sites.google.com/site/yinwenpeng1987/). Before PSU, I was an undergraduate at Zhejiang University City College, advised by Prof. [Lin Sun](https://scholar.google.com/citations?user=48cqMXkAAAAJ&hl=en).
 
 My current research interest focuses on **Large Language Models** and **Instruction Tuning** 🤖. <font color="#df1a7d">I am actively looking for research collaborators</font> (no matter PhD, master, or undergraduate students). If you are interested, feel free to reach out via email 🤗.
 
