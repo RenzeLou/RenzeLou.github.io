@@ -18,8 +18,8 @@ My research interests include but are not limited to . Recently, I have been stu
 ## Updates:
 <!-- - **<font color="#dd0000">Important: Our group will move to Penn State University (PSU) in Jan. 2023, and welcome more new members in the future!</font><br/>** -->
 - Oct. 2023: We released ✨<img src="./../images/cupcake.png" width="18" height="18">✨ **MUFFIN**, a novel LLM-synthetic dataset for instruction tuning. Check it out at our **[project website](https://renzelou.github.io/Muffin/)** 👈.
-- Mar. 2023: 🔥🔥🔥 <font color="#dd0000">We released a comprehensive</font> **[reading list](https://github.com/RenzeLou/awesome-instruction-learning)** <font color="#dd0000">(more than 160 papers) on Instruction Learning!</font> The corresponding survey is available at **[here](https://arxiv.org/abs/2303.10475)** 👈.
-- Feb. 2023: One paper accepted by ICASSP 2023. It was my first time supervising undergraduates through the whole project!
+- Mar. 2023: 🔥🔥🔥 <font color="#dd0000">We released a comprehensive</font> **[reading list](https://github.com/RenzeLou/awesome-instruction-learning)** <font color="#dd0000">(more than 160 papers) on Instruction Learning!</font> The corresponding survey is available **[here](https://arxiv.org/abs/2303.10475)** 👈.
+- Feb. 2023: One paper accepted by ICASSP 2023. It was my **first time supervising undergraduates** through the whole project!
 - Jan. 2023: **Moved to Penn State University.** Goodbye, Temple.
 - Oct. 2022: One paper accepted by EMNLP 2022.
 - Aug. 2022: Began my PhD journey at Temple University.
