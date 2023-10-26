@@ -10,22 +10,22 @@ redirect_from:
 
 My name is Renze Lou ( *楼仁泽* ), a first-year PhD student at Penn State University. I am glad to be supervised by Prof. [Wenpeng Yin](https://sites.google.com/site/yinwenpeng1987/). Before PSU, I was an undergraduate at Zhejiang University City College, advised by Prof. [Lin Sun](https://scholar.google.com/citations?user=48cqMXkAAAAJ&hl=en).
 
-My current research interest focuses on **Large Language Models**, **Instruction Tuning** and **Agent** 🤖. <font color="#df1a7d">I am actively looking for research collaborators</font> (no matter PhD, master, or undergraduate students). If you are interested, feel free to reach out via email 🤗.
+My current research interest focuses on **Large Language Models**, **Instruction Tuning** and **Agent** 🤖. <font color="#df1a7d">I am now actively seeking for <u>Research Internship in 2024</u>.</font> Appreciate any opportunities or referrals!
 
-<!-- 
-My research interests include but are not limited to . Recently, I have been studying **Emotion Analysis in Conversations** intensively. -->
+<!-- I am actively looking for research collaborators (no matter PhD, master, or undergraduate students). If you are interested, feel free to reach out via email 🤗. -->
+
 
 ## Updates:
 <!-- - **<font color="#dd0000">Important: Our group will move to Penn State University (PSU) in Jan. 2023, and welcome more new members in the future!</font><br/>** -->
 - Oct. 2023: We released ✨<img src="./../images/cupcake.png" width="18" height="18">✨ **MUFFIN**, a novel LLM-synthetic dataset for instruction tuning. Check it out on our **[project website](https://renzelou.github.io/Muffin/)** 👈.
 <!-- - Mar. 2023: 🔥🔥🔥 <font color="#dd0000">We released a comprehensive</font> **[reading list](https://github.com/RenzeLou/awesome-instruction-learning)** <font color="#dd0000">(more than 160 papers) on Instruction Learning!</font> The corresponding survey is available **[here](https://arxiv.org/abs/2303.10475)** 👈. -->
 - Mar. 2023: 🔥🔥🔥 We released **a comprehensive survey** on Instruction Learning. Check it out on [arXiv](https://arxiv.org/abs/2303.10475). The corresponding paper list (more than 160 papers) is also available on [github](https://github.com/RenzeLou/awesome-instruction-learning).
-- Feb. 2023: One paper accepted by ICASSP 2023. It was my **first time supervising undergraduates** through the whole project!
-- Jan. 2023: **Moved to Penn State University.** Goodbye, Temple.
+- Feb. 2023: One paper accepted by ICASSP 2023. It was my first time supervising undergraduates through the whole project!
+- Jan. 2023: Our group moved to Penn State University. 
 - Oct. 2022: One paper accepted by EMNLP 2022.
-- Aug. 2022: Began my PhD journey at Temple University.
+<!-- - Aug. 2022: Began my PhD journey at Temple University. -->
 <!-- - Jun. 2022: Two papers submitted to EMNLP 2022. -->
-<!-- - Jun. 2022: Recieved Bachelor's degree. Goodbye, ZUCC. -->
+- Jun. 2022: Recieved Bachelor's degree. Goodbye, ZUCC.
 <!-- - May 2022: **I received several Ph.D. offers and chose Temple University finally.**    -->
 <!-- - Jan. 2022: Awarded "Outstanding Technical Contribution" from Intel. -->
 <!-- - Oct. 2021: I came to CUHK-SZ and recieved a research assistantship. -->
@@ -37,12 +37,6 @@ My research interests include but are not limited to . Recently, I have been stu
 - Aug. 2021: **One of my works was accepted by EMNLP 2021.**
 -->
 
-## Research Experience:
-- **Research Assistant** @ Penn State University. <br> \-- Supervised by Prof. [Wenpeng Yin](https://scholar.google.com/citations?user=mRg16LkAAAAJ&hl=en). Aug. 2022 ~ Present.
-- **Research Assistant** @ The Chinese University of Hongkong (Shenzhen). <br> \-- Cooperated with Prof. [Yan Song](https://scholar.google.com.hk/citations?hl=en&user=MsRp7g0AAAAJ) and [Yuanhe Tian](https://scholar.google.com/citations?user=5GCwWZ8AAAAJ&hl=en) (University of Washington). Oct. 2021 ~ May 2022. 
-- **Research Intern** @ Dartmouth College. <br> \-- Worked closely with Prof. [Soroush Vosoughi](https://scholar.google.com.hk/citations?user=45DAXkwAAAAJ&hl=en) and [Weicheng Ma](https://scholar.google.com.hk/citations?user=njnBrb4AAAAJ&hl=en). Oct. 2020 ~ Aug. 2021. 
-- **Research Intern** @ Tsinghua Shenzhen International Graduate School. <br> \-- Advised by Prof. [Yujiu Yang](https://scholar.google.com.hk/citations?hl=en&user=4gH3sxsAAAAJ). Jun. 2020 ~ Oct. 2020. 
-- **Research Assistant** @ Zhejiang University City College. <br> \-- Advised by Prof. [Lin Sun](https://scholar.google.com/citations?user=48cqMXkAAAAJ&hl=en) and [Kai Zhang](https://scholar.google.com/citations?user=sDnAIsgAAAAJ&hl=en) (Ohio State University). Jul. 2020 ~ Mar. 2021. 
 
 ## Publications:
 
@@ -58,6 +52,14 @@ My research interests include but are not limited to . Recently, I have been stu
 8. Weicheng Ma\*, Kai Zhang\*, **Renze Lou**, Lili Wang and Soroush Vosoughi. <u>Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks</u>. *In ACL 2021 (**Long Oral**)*. <br> [[Paper](https://aclanthology.org/2021.acl-long.152/)]; [[Code](https://github.com/hikari-NYU/Contributions-of-Transformer-Attention-Heads-in-Multi--and-Cross-lingual-Tasks)]
 9. **Renze Lou**\*, Yutong Wang\*, Kai Zhang\*, Maoyan Chen and Yujiu Yang. <u>MORE: A Metric Learning Based Framework for Open-Domain Relation Extraction</u>. *In ICASSP 2021*. <br> [[Paper](https://arxiv.org/abs/2206.00289)]; [[Code](https://github.com/RenzeLou/MORE)]
 10. **Renze Lou**\*, Fan Zhang\*, Xiaowei Zhou, Yutong Wang, Minghui Wu, Lin Sun. <u>A Unified Representation Learning Strategy for Open Relation Extraction with Ranked List Loss</u>. *In CCL 2021*. <br> [[Paper](https://aclanthology.org/2021.ccl-1.98/)]; [[Code](https://github.com/RenzeLou/MORE)]
+
+## Research Experience:
+- **Research Assistant** @ Penn State University. <br> \-- Supervised by Prof. [Wenpeng Yin](https://scholar.google.com/citations?user=mRg16LkAAAAJ&hl=en). Aug. 2022 ~ Present.
+- **Research Assistant** @ The Chinese University of Hongkong (Shenzhen). <br> \-- Cooperated with Prof. [Yan Song](https://scholar.google.com.hk/citations?hl=en&user=MsRp7g0AAAAJ) and [Yuanhe Tian](https://scholar.google.com/citations?user=5GCwWZ8AAAAJ&hl=en) (University of Washington). Oct. 2021 ~ May 2022. 
+- **Research Intern** @ Dartmouth College. <br> \-- Worked closely with Prof. [Soroush Vosoughi](https://scholar.google.com.hk/citations?user=45DAXkwAAAAJ&hl=en) and [Weicheng Ma](https://scholar.google.com.hk/citations?user=njnBrb4AAAAJ&hl=en). Oct. 2020 ~ Aug. 2021. 
+- **Research Intern** @ Tsinghua Shenzhen International Graduate School. <br> \-- Advised by Prof. [Yujiu Yang](https://scholar.google.com.hk/citations?hl=en&user=4gH3sxsAAAAJ). Jun. 2020 ~ Oct. 2020. 
+- **Research Assistant** @ Zhejiang University City College. <br> \-- Advised by Prof. [Lin Sun](https://scholar.google.com/citations?user=48cqMXkAAAAJ&hl=en) and [Kai Zhang](https://scholar.google.com/citations?user=sDnAIsgAAAAJ&hl=en) (Ohio State University). Jul. 2020 ~ Mar. 2021. 
+
 
 ## Selected Awards:
 - Outstanding Technical Contribution Grant for OpenVINO. <br> \-- Awarded by Intel, 2022.
