@@ -42,10 +42,10 @@ My current research interest focuses on **Large Language Models**, **Instruction
 
 (<font size=4> * </font> indicates equal contribution)
 
-1. **Renze Lou**, Kai Zhang, Jian Xie, Yuxuan Sun, Janice Ahn, Hanzi Xu, Yu Su, Wenpeng Yin. <u>MUFFIN: Curating Multi-Faceted Instructions for Improving Instruction-Following.</u> *arXiv Preprint 2023.* <br> [[Paper]()]; [[Website](https://renzelou.github.io/Muffin/)]
+1. **Renze Lou**, Kai Zhang, Jian Xie, Yuxuan Sun, Janice Ahn, Hanzi Xu, Yu Su, Wenpeng Yin. <u>MUFFIN: Curating Multi-Faceted Instructions for Improving Instruction-Following.</u> *arXiv Preprint 2023.* <br> [[Paper](https://arxiv.org/abs/2312.02436)]; [[Website](https://renzelou.github.io/Muffin/)]
 2. Jian Xie, Kai Zhang, Jiangjie Chen, **Renze Lou**, Yu Su. <u>Adaptive Chameleon or Stubborn Sloth: Unraveling the Behavior of Large Language Models in Knowledge Conflicts.</u> *arXiv Preprint 2023.* <br> [[Paper](https://arxiv.org/pdf/2305.13300.pdf)]; [[Code](https://github.com/OSU-NLP-Group/LLM-Knowledge-Conflict)]
 3. **Renze Lou**, Kai Zhang, Wenpeng Yin. <u>Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning.</u> *arXiv Preprint 2023.* <br> [[Paper](https://arxiv.org/pdf/2303.10475.pdf)]; [[Paper List](https://github.com/RenzeLou/awesome-instruction-learning)]
-4. **Renze Lou** and Wenpeng Yin. <u>Forget Demonstrations, Focus on Learning from Textual Instructions.</u> *arXiv Preprint 2023.* <br> [[Paper](https://arxiv.org/abs/2308.03795)]; [[Code]()]
+4. **Renze Lou** and Wenpeng Yin. <u>Forget Demonstrations, Focus on Learning from Textual Instructions.</u> *arXiv Preprint 2023.* <br> [[Paper](https://arxiv.org/abs/2308.03795)]; [[Code](https://github.com/RenzeLou/Pick-Rank)]
 5. Xiaojie Gu, **Renze Lou**, Lin Sun, Shangxin Li. <u>PAGE: A Position-Aware Graph-Based Model for Emotion Cause Entailment in Conversation</u>. *In ICASSP 2023*. <br> [[Paper](https://arxiv.org/abs/2303.01795)]; [[Code](https://github.com/XiaojieGu/PAGE)]
 6. Yuanhe Tian, **Renze Lou**, Xiangyu Pang, Lianxi Wang, Shengyi JIANG and Yan Song. <u>Improving English-Arabic Transliteration with Phonemic Memories</u>. *In EMNLP-Findings 2022*. <br> [[Paper](https://aclanthology.org/2022.findings-emnlp.238)]; [[Data](https://github.com/synlp/EATrans)]
 7. Weicheng Ma, **Renze Lou** , Kai Zhang, Lili Wang and Soroush Vosoughi. <u>GradTS: A Gradient-Based Automatic Auxiliary Task Selection Method Based on Transformer Networks</u>. *In EMNLP 2021*. <br> [[Paper](https://aclanthology.org/2021.emnlp-main.455/)]; [[Code](https://github.com/RenzeLou/GradTS)]
@@ -67,9 +67,9 @@ My current research interest focuses on **Large Language Models**, **Instruction
 - Zhejiang Provincial Government Scholarship. <br> \-- Awarded by Zhejiang Provincial Government, 2021.
   
 ## Services:
-- **PC Member (Reviewer)**: `ACL Rolling Review (since 2023)`; `ACL (since 2023)`; `EMNLP (since 2022)`; `Instruction Workshop @ NeurIPS 2023`; `UDM @ KDD 2023`; `ToM @ ICML 2023`; `AKBC 2022`.
+- **PC Member (Reviewer)**: `ACL Rolling Review (since 2023)`; `ACL (since 2023)`; `EMNLP (since 2022)`; `StarSEM (since 2023)`; `Instruction Workshop @ NeurIPS 2023`; `UDM @ KDD 2023`; `ToM @ ICML 2023`; `AKBC 2022`.
 
-- **External Reviewer**: `EMNLP (since 2021)`; `NLPCC 2023`; `CCL 2023`; `StarSEM 2023`; `IJCAI 2021`; `JISF`.
+- **External Reviewer**: `EMNLP (since 2021)`; `NLPCC 2023`; `CCL 2023`; `IJCAI 2021`; `JISF`.
 
 - **Leadership**: Co-Founder of [CCAi](https://github.com/ZUCC-AI).
 
