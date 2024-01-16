@@ -17,7 +17,7 @@ My current research interest focuses on **Large Language Models**, **Instruction
 
 ## Updates:
 <!-- - **<font color="#dd0000">Important: Our group will move to Penn State University (PSU) in Jan. 2023, and welcome more new members in the future!</font><br/>** -->
-- Jan. 2024. Two paper accepted by ICLR 2024. Thanks to all of my awesome collaborators!
+- Jan. 2024. Two papers were accepted by ICLR 2024. Thanks to all of my awesome collaborators!
 - Oct. 2023: We released ✨<img src="./../images/cupcake.png" width="18" height="18">✨ **MUFFIN**, a novel LLM-synthetic dataset for instruction tuning. Check it out on our **[project website](https://renzelou.github.io/Muffin/)** 👈.
 <!-- - Mar. 2023: 🔥🔥🔥 <font color="#dd0000">We released a comprehensive</font> **[reading list](https://github.com/RenzeLou/awesome-instruction-learning)** <font color="#dd0000">(more than 160 papers) on Instruction Learning!</font> The corresponding survey is available **[here](https://arxiv.org/abs/2303.10475)** 👈. -->
 - Mar. 2023: 🔥🔥🔥 We released **a comprehensive survey** on Instruction Learning. Check it out on [arXiv](https://arxiv.org/abs/2303.10475). The corresponding paper list (more than 160 papers) is also available on [github](https://github.com/RenzeLou/awesome-instruction-learning).
