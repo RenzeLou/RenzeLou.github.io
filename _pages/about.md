@@ -22,11 +22,11 @@ My current research interest focuses on **Large Language Models**, **Instruction
 <!-- - Mar. 2023: 🔥🔥🔥 <font color="#dd0000">We released a comprehensive</font> **[reading list](https://github.com/RenzeLou/awesome-instruction-learning)** <font color="#dd0000">(more than 160 papers) on Instruction Learning!</font> The corresponding survey is available **[here](https://arxiv.org/abs/2303.10475)** 👈. -->
 - Mar. 2023: 🔥🔥🔥 We released **a comprehensive survey** on Instruction Learning. Check it out on [arXiv](https://arxiv.org/abs/2303.10475). The corresponding paper list (more than 160 papers) is also available on [github](https://github.com/RenzeLou/awesome-instruction-learning).
 - Feb. 2023: One paper accepted by ICASSP 2023. It was my first time supervising undergraduates through the whole project!
-- Jan. 2023: Our group moved to Penn State University. 
+<!-- - Jan. 2023: Our group moved to Penn State University.  -->
 - Oct. 2022: One paper accepted by EMNLP 2022.
 <!-- - Aug. 2022: Began my PhD journey at Temple University. -->
 <!-- - Jun. 2022: Two papers submitted to EMNLP 2022. -->
-<!-- - Jun. 2022: Recieved Bachelor's degree. Goodbye, ZUCC. -->
+- Jun. 2022: Recieved Bachelor's degree. Goodbye, ZUCC.
 <!-- - May 2022: **I received several Ph.D. offers and chose Temple University finally.**    -->
 <!-- - Jan. 2022: Awarded "Outstanding Technical Contribution" from Intel. -->
 <!-- - Oct. 2021: I came to CUHK-SZ and recieved a research assistantship. -->
