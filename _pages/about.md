@@ -17,6 +17,7 @@ My current research interest focuses on **Large Language Models**, **Instruction
 
 ## Updates:
 <!-- - **<font color="#dd0000">Important: Our group will move to Penn State University (PSU) in Jan. 2023, and welcome more new members in the future!</font><br/>** -->
+- Jan. 2024. Two paper accepted by ICLR 2024. Thanks to all of my awesome collaborators!
 - Oct. 2023: We released ✨<img src="./../images/cupcake.png" width="18" height="18">✨ **MUFFIN**, a novel LLM-synthetic dataset for instruction tuning. Check it out on our **[project website](https://renzelou.github.io/Muffin/)** 👈.
 <!-- - Mar. 2023: 🔥🔥🔥 <font color="#dd0000">We released a comprehensive</font> **[reading list](https://github.com/RenzeLou/awesome-instruction-learning)** <font color="#dd0000">(more than 160 papers) on Instruction Learning!</font> The corresponding survey is available **[here](https://arxiv.org/abs/2303.10475)** 👈. -->
 - Mar. 2023: 🔥🔥🔥 We released **a comprehensive survey** on Instruction Learning. Check it out on [arXiv](https://arxiv.org/abs/2303.10475). The corresponding paper list (more than 160 papers) is also available on [github](https://github.com/RenzeLou/awesome-instruction-learning).
@@ -42,8 +43,8 @@ My current research interest focuses on **Large Language Models**, **Instruction
 
 (<font size=4> * </font> indicates equal contribution)
 
-1. **Renze Lou**, Kai Zhang, Jian Xie, Yuxuan Sun, Janice Ahn, Hanzi Xu, Yu Su, Wenpeng Yin. <u>MUFFIN: Curating Multi-Faceted Instructions for Improving Instruction-Following.</u> *arXiv Preprint 2023.* <br> [[Paper](https://arxiv.org/abs/2312.02436)]; [[Website](https://renzelou.github.io/Muffin/)]
-2. Jian Xie, Kai Zhang, Jiangjie Chen, **Renze Lou**, Yu Su. <u>Adaptive Chameleon or Stubborn Sloth: Unraveling the Behavior of Large Language Models in Knowledge Conflicts.</u> *arXiv Preprint 2023.* <br> [[Paper](https://arxiv.org/pdf/2305.13300.pdf)]; [[Code](https://github.com/OSU-NLP-Group/LLM-Knowledge-Conflict)]
+1. **Renze Lou**, Kai Zhang, Jian Xie, Yuxuan Sun, Janice Ahn, Hanzi Xu, Yu Su, Wenpeng Yin. <u>MUFFIN: Curating Multi-Faceted Instructions for Improving Instruction-Following.</u> *In ICLR 2024.* <br> [[Paper](https://arxiv.org/abs/2312.02436)]; [[Website](https://renzelou.github.io/Muffin/)]
+2. Jian Xie, Kai Zhang, Jiangjie Chen, **Renze Lou**, Yu Su. <u>Adaptive Chameleon or Stubborn Sloth: Unraveling the Behavior of Large Language Models in Knowledge Conflicts.</u> *In ICLR 2024 (**Spotlight**).* <br> [[Paper](https://arxiv.org/pdf/2305.13300.pdf)]; [[Code](https://github.com/OSU-NLP-Group/LLM-Knowledge-Conflict)]
 3. **Renze Lou**, Kai Zhang, Wenpeng Yin. <u>Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning.</u> *arXiv Preprint 2023.* <br> [[Paper](https://arxiv.org/pdf/2303.10475.pdf)]; [[Paper List](https://github.com/RenzeLou/awesome-instruction-learning)]
 4. **Renze Lou** and Wenpeng Yin. <u>Forget Demonstrations, Focus on Learning from Textual Instructions.</u> *arXiv Preprint 2023.* <br> [[Paper](https://arxiv.org/abs/2308.03795)]; [[Code](https://github.com/RenzeLou/Pick-Rank)]
 5. Xiaojie Gu, **Renze Lou**, Lin Sun, Shangxin Li. <u>PAGE: A Position-Aware Graph-Based Model for Emotion Cause Entailment in Conversation</u>. *In ICASSP 2023*. <br> [[Paper](https://arxiv.org/abs/2303.01795)]; [[Code](https://github.com/XiaojieGu/PAGE)]
