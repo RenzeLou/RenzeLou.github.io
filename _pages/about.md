@@ -26,7 +26,7 @@ My current research interest focuses on **Large Language Models**, **Instruction
 - Oct. 2022: One paper accepted by EMNLP 2022.
 <!-- - Aug. 2022: Began my PhD journey at Temple University. -->
 <!-- - Jun. 2022: Two papers submitted to EMNLP 2022. -->
-- Jun. 2022: Recieved Bachelor's degree. Goodbye, ZUCC.
+<!-- - Jun. 2022: Recieved Bachelor's degree. Goodbye, ZUCC. -->
 <!-- - May 2022: **I received several Ph.D. offers and chose Temple University finally.**    -->
 <!-- - Jan. 2022: Awarded "Outstanding Technical Contribution" from Intel. -->
 <!-- - Oct. 2021: I came to CUHK-SZ and recieved a research assistantship. -->
