@@ -43,7 +43,7 @@ My current research interest focuses on **Large Language Models**, **Instruction
 
 (<font size=4> * </font> indicates equal contribution)
 
-1. Jian Xie\*, Kai Zhang\*, Jiangjie Chen, Tinghui Zhu, **Renze Lou**, Yuandong Tian, Yanghua Xiao, Yu Su. <u>TravelPlanner: A Benchmark for Real-World Planning with Language Agents</u> *arXiv Preprint 2024.* <br> [[Paper](https://arxiv.org/pdf/2402.01622.pdf)]; [[Website](https://osu-nlp-group.github.io/TravelPlanner/)]
+1. Jian Xie\*, Kai Zhang\*, Jiangjie Chen, Tinghui Zhu, **Renze Lou**, Yuandong Tian, Yanghua Xiao, Yu Su. <u>TravelPlanner: A Benchmark for Real-World Planning with Language Agents.</u> *arXiv Preprint 2024.* <br> [[Paper](https://arxiv.org/pdf/2402.01622.pdf)]; [[Website](https://osu-nlp-group.github.io/TravelPlanner/)]
 2. **Renze Lou**, Kai Zhang, Jian Xie, Yuxuan Sun, Janice Ahn, Hanzi Xu, Yu Su, Wenpeng Yin. <u>MUFFIN: Curating Multi-Faceted Instructions for Improving Instruction-Following.</u> *In ICLR 2024.* <br> [[Paper](https://arxiv.org/abs/2312.02436)]; [[Website](https://renzelou.github.io/Muffin/)]
 3. Jian Xie\*, Kai Zhang\*, Jiangjie Chen, **Renze Lou**, Yu Su. <u>Adaptive Chameleon or Stubborn Sloth: Unraveling the Behavior of Large Language Models in Knowledge Conflicts.</u> *In ICLR 2024 (**Spotlight**).* <br> [[Paper](https://arxiv.org/pdf/2305.13300.pdf)]; [[Code](https://github.com/OSU-NLP-Group/LLM-Knowledge-Conflict)]
 4. Lin Sun\*, Kai Zhang\*, Qingyuan Li\*, **Renze Lou**. <u>UMIE: Unified Multimodal Information Extraction with Instruction Tuning.</u> *In AAAI 2024 (**Oral**).* <br> [[Paper](https://arxiv.org/abs/2401.03082)]; [[Code](https://github.com/ZUCC-AI/UMIE)]
