@@ -80,7 +80,7 @@ My current research interest focuses on **Large Language Models**, **Instruction
 
 ## Contact:
 - **Email**: `renze.lou (at) psu (dot) edu`
-- **Average Response Time**: <u>within 24 hours</u> (I constantly check my email).
+- **Average Response Time**: <u>within 24 hours</u>.
 
 
 ------------
