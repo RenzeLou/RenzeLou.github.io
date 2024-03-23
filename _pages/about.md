@@ -16,7 +16,7 @@ My current research interest focuses on **Large Language Models**, **Instruction
 
 <!-- <font color="#df1a7d">I am now actively seeking for <u>Research Internship in 2024</u>.</font> Appreciate any opportunities or referrals! -->
 
-<font color="#df1a7d">Upcoming research internships @ Salesforce Research (Summer 2024)</font>. See you in Palo Alto, CA 🌞!
+<font color="#df1a7d">Upcoming research internships @ Salesforce Research (Summer 2024).</font> See you in Palo Alto, CA 🌞!
 
 
 ## Updates:
