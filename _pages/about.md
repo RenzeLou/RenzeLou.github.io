@@ -8,11 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-My name is Renze Lou ( *楼仁泽* ), a second-year PhD student at Penn State University. I am glad to be supervised by Prof. [Wenpeng Yin](https://sites.google.com/site/yinwenpeng1987/). Before PSU, I was an undergraduate at Zhejiang University City College, advised by Prof. [Lin Sun](https://scholar.google.com/citations?user=48cqMXkAAAAJ&hl=en).
+My name is Renze Lou ( *楼仁泽* ), a second-year PhD student at Penn State University. I am glad to be supervised by Prof. [Wenpeng Yin](https://sites.google.com/site/yinwenpeng1987/). Before PSU, I got my B.Eng. degree from Zhejiang University City College.
 
-My current research interest focuses on **Large Language Models**, **Instruction Tuning** and **Agent** 🤖. <font color="#df1a7d">I am now actively seeking for <u>Research Internship in 2024</u>.</font> Appreciate any opportunities or referrals!
+<!-- was an undergraduate at Zhejiang University City College, advised by Prof. [Lin Sun](https://scholar.google.com/citations?user=48cqMXkAAAAJ&hl=en). -->
 
-<!-- I am actively looking for research collaborators (no matter PhD, master, or undergraduate students). If you are interested, feel free to reach out via email 🤗. -->
+My current research interest focuses on **Large Language Models**, **Instruction Tuning** and **Agent** 🤖. I am actively looking for research collaborators. If you are interested, feel free to reach out via email 🤗.
+
+<!-- <font color="#df1a7d">I am now actively seeking for <u>Research Internship in 2024</u>.</font> Appreciate any opportunities or referrals! -->
+
+<font color="#df1a7d">Upcoming research internships @ Salesforce Research (Summer 2024)</font>. See you in Palo Alto, CA 🌞!
 
 
 ## Updates:
@@ -67,15 +71,15 @@ My current research interest focuses on **Large Language Models**, **Instruction
 
 ## Selected Awards:
 - Outstanding Technical Contribution Grant for OpenVINO. <br> \-- Awarded by Intel, 2022.
-- Outstanding Graduates of Zhejiang Province. <br> \-- Awarded by Zhejiang Provincial Government, 2022.
-- Zhejiang Provincial Government Scholarship. <br> \-- Awarded by Zhejiang Provincial Government, 2021.
+- Outstanding Graduates of Zhejiang Province (*浙江省杰出毕业生*). <br> \-- Awarded by Zhejiang Provincial Government, 2022.
+- Zhejiang Provincial Government Scholarship (*浙江省级政府奖学金*). <br> \-- Awarded by Zhejiang Provincial Government, 2021.
   
 ## Services:
 - **PC Member (Reviewer)**: `ACL Rolling Review (since 2023)`; `ACL (since 2023)`; `EMNLP (since 2022)`; `StarSEM (since 2023)`; `Instruction Workshop @ NeurIPS 2023`; `UDM @ KDD 2023`; `ToM @ ICML 2023`; `AKBC 2022`.
 
 - **External Reviewer**: `EMNLP (since 2021)`; `NLPCC 2023`; `CCL 2023`; `IJCAI 2021`; `JISF`.
 
-- **Leadership**: Co-Founder of [CCAi](https://github.com/ZUCC-AI).
+- **Teaching & Leadership**: Co-Founder of [CCAi](https://github.com/ZUCC-AI), teaching undergruaduate students in doing AI research.
 
 
 ## Contact:
