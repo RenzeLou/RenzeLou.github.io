@@ -48,17 +48,17 @@ My current research interests cover **AI for Science**, **Instruction Tuning** a
 ## Selected Publications:
 
 <!-- (<font size=4> * </font> indicates equal contribution) -->
-See the full publication record on my **[latest CV](https://renzelou.github.io/RenzeLou_CV_10.18.2024.pdf)**.
+See the full publication record on my **[latest CV](https://renzelou.github.io/RenzeLou_CV_10.23.2024.pdf)**.
 
 <!-- 1. Ryo Kamoi, Sarkar Snigdha Sarathi Das, **Renze Lou**, Wenpeng Yin, Rui Zhang, and et al. <u>Evaluating LLMs at Detecting Errors in LLM Responses.</u> *arXiv Preprint 2024.* <br> [[Paper](https://arxiv.org/pdf/2404.03602.pdf)]; [[Code](https://github.com/psunlpgroup/ReaLMistake)] -->
 
 1. **Renze Lou**, Hanzi Xu, Sijia Wang, Jiangshu Du, Ryo Kamoi, Xiaoxin Lu, Jian Xie, Yuxuan Sun, Yusen
 Zhang, Jihyun Janice Ahn, Hongchao Fang, Zhuoyang Zou, Wenchao Ma, Xi Li, Kai Zhang, Congying Xia,
 Lifu Huang, Wenpeng Yin. <u>AAAR-1.0: Assessing AI’s Potential to Assist Research.</u> *arXiv Preprint 2024.* <br> [[Paper](https://arxiv.org/abs/2410.22394)]; [[Website](https://renzelou.github.io/AAAR-1.0/)]
-2. Jian Xie\*, Kai Zhang\*, Jiangjie Chen, Tinghui Zhu, **Renze Lou**, Yuandong Tian, Yanghua Xiao, Yu Su. <u>TravelPlanner: A Benchmark for Real-World Planning with Language Agents.</u> *In ICML 2024.* <br> [[Paper](https://arxiv.org/pdf/2402.01622.pdf)]; [[Website](https://osu-nlp-group.github.io/TravelPlanner/)] <br> <font color="c22f2f">Spotlight (3.5%)</font>
-3. **Renze Lou**, Kai Zhang, Jian Xie, Yuxuan Sun, Janice Ahn, Hanzi Xu, Yu Su, Wenpeng Yin. <u>MUFFIN: Curating Multi-Faceted Instructions for Improving Instruction-Following.</u> *In ICLR 2024.* <br> [[Paper](https://arxiv.org/abs/2312.02436)]; [[Website](https://renzelou.github.io/Muffin/)]
-4. Jian Xie\*, Kai Zhang\*, Jiangjie Chen, **Renze Lou**, Yu Su. <u>Adaptive Chameleon or Stubborn Sloth: Unraveling the Behavior of Large Language Models in Knowledge Conflicts.</u> *In ICLR 2024.* <br> [[Paper](https://arxiv.org/pdf/2305.13300.pdf)]; [[Code](https://github.com/OSU-NLP-Group/LLM-Knowledge-Conflict)] <br> <font color="c22f2f">Spotlight (5%)</font>
-5. Lin Sun\*, Kai Zhang\*, Qingyuan Li\*, **Renze Lou**. <u>UMIE: Unified Multimodal Information Extraction with Instruction Tuning.</u> *In AAAI 2024.* <br> [[Paper](https://arxiv.org/abs/2401.03082)]; [[Code](https://github.com/ZUCC-AI/UMIE)] <br> <font color="c22f2f">Oral</font>
+1. Jian Xie\*, Kai Zhang\*, Jiangjie Chen, Tinghui Zhu, **Renze Lou**, Yuandong Tian, Yanghua Xiao, Yu Su. <u>TravelPlanner: A Benchmark for Real-World Planning with Language Agents.</u> *In ICML 2024.* <br> [[Paper](https://arxiv.org/pdf/2402.01622.pdf)]; [[Website](https://osu-nlp-group.github.io/TravelPlanner/)] <br> <font color="c22f2f">Spotlight (3.5%)</font>
+2. **Renze Lou**, Kai Zhang, Jian Xie, Yuxuan Sun, Janice Ahn, Hanzi Xu, Yu Su, Wenpeng Yin. <u>MUFFIN: Curating Multi-Faceted Instructions for Improving Instruction-Following.</u> *In ICLR 2024.* <br> [[Paper](https://arxiv.org/abs/2312.02436)]; [[Website](https://renzelou.github.io/Muffin/)]
+3. Jian Xie\*, Kai Zhang\*, Jiangjie Chen, **Renze Lou**, Yu Su. <u>Adaptive Chameleon or Stubborn Sloth: Unraveling the Behavior of Large Language Models in Knowledge Conflicts.</u> *In ICLR 2024.* <br> [[Paper](https://arxiv.org/pdf/2305.13300.pdf)]; [[Code](https://github.com/OSU-NLP-Group/LLM-Knowledge-Conflict)] <br> <font color="c22f2f">Spotlight (5%)</font>
+4. Lin Sun\*, Kai Zhang\*, Qingyuan Li\*, **Renze Lou**. <u>UMIE: Unified Multimodal Information Extraction with Instruction Tuning.</u> *In AAAI 2024.* <br> [[Paper](https://arxiv.org/abs/2401.03082)]; [[Code](https://github.com/ZUCC-AI/UMIE)] <br> <font color="c22f2f">Oral</font>
 <!-- 5. Janice Ahn, RISHU VERMA, **Renze Lou**, Di Liu, Rui Zhang, Wenpeng Yin. <u>Large Language Models for Mathematical Reasoning: Progresses and Challenges.</u> *In EACL 2024 Student Research Workshop.* <br> [[Paper]()] -->
 1. **Renze Lou** and Wenpeng Yin. <u>Forget Demonstrations, Focus on Learning from Textual Instructions.</u> *In EACL 2024 Student Research Workshop.* <br> [[Paper](https://arxiv.org/abs/2308.03795)]; [[Code](https://github.com/RenzeLou/Pick-Rank)]
 2. **Renze Lou**, Kai Zhang, Wenpeng Yin. <u>Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning.</u> *In Computational Linguistics 2024.* <br> [[Paper](https://arxiv.org/pdf/2303.10475.pdf)]; [[Paper List](https://github.com/RenzeLou/awesome-instruction-learning)]
