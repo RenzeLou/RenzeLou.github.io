@@ -21,7 +21,7 @@ My current research interests cover **AI for Science**, **Instruction Tuning** a
 
 ## Updates:
 <!-- - **<font color="#dd0000">Important: Our group will move to Penn State University (PSU) in Jan. 2023, and welcome more new members in the future!</font><br/>** -->
-- Oct. 2024: We released **[AAAR-1.0](https://renzelou.github.io/AAAR-1.0/)**, a novel benchmark for quantitatively assessing LLM's capacity in assisting high-level ML research tasks. Give your LLM-scientist a spin now and see the potential! 🚀 
+- Oct. 2024: We released **[AAAR-1.0](https://renzelou.github.io/AAAR-1.0/)**, a novel benchmark for quantitatively assessing LLM's capacity in assisting high-level ML research tasks. Give your LLM-scientist a spin now and see the potential! 🚀 Stay tuned for the next version of our benchmark!
 - May 2024: Start my Research internships @ Salesforce Research (Palo Alto, CA). 
 - Jan. 2024. Two papers were accepted by ICLR 2024. Thanks to all of my awesome collaborators!
 - Oct. 2023: We released ✨<img src="./../images/cupcake.png" width="18" height="18">✨ **MUFFIN**, a novel LLM-synthetic dataset for instruction tuning. Check it out on our **[project website](https://renzelou.github.io/Muffin/)** 👈.
