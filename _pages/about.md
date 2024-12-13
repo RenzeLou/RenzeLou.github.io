@@ -92,12 +92,13 @@ Lifu Huang, Wenpeng Yin. <u>AAAR-1.0: Assessing AI’s Potential to Assist Resea
 - Zhejiang Provincial Government Scholarship (*浙江省级政府奖学金*). <br> \-- Awarded by Zhejiang Provincial Government, 2021.
   
 ## Services:
-- **Tutorial & Workshop Organizer**: `SciCap Challenge @ IJCAI 2024`; `Instruction Following Tutorial`.
-- **PC Member (Reviewer)**: `ICLR (since 2024)`; `ACL Rolling Review (since 2023)`; `ACL (since 2023)`; `EMNLP (since 2022)`; `StarSEM (since 2023)`; `Instruction Workshop @ NeurIPS 2023`; `UDM @ KDD 2023`; `ToM @ ICML 2023`; `AKBC 2022`.
+- **Tutorial & Workshop Organizer**: `SciCap Challenge @ IJCAI 2024`; `Instruction Following Tutorial @ EMNLP 2025`.
+- **Area Chair**: `AI4Research @ AAAI 2025`.
+- **Reviewer**: `ICLR (since 2024)`; `ACL Rolling Review (since 2023)`; `ACL (since 2023)`; `EMNLP (since 2022)`; `StarSEM (since 2023)`; `Instruction Workshop @ NeurIPS 2023`; `UDM @ KDD 2023`; `ToM @ ICML 2023`; `AKBC 2022`.
 
 - **External Reviewer**: `EMNLP (since 2021)`; `NLPCC 2023`; `CCL 2023`; `IJCAI 2021`; `JISF`.
 
-- **Teaching & Leadership**: Co-Founder of [CCAi](https://github.com/ZUCC-AI), teaching undergruaduate students in doing AI research.
+<!-- - **Teaching & Leadership**: Co-Founder of [CCAi](https://github.com/ZUCC-AI), teaching undergruaduate students in doing AI research. -->
 
 
 ## Contact:
