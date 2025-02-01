@@ -48,7 +48,7 @@ My current research interests cover **AI for Science**, **Instruction Tuning** a
 ## Selected Publications:
 
 <!-- (<font size=4> * </font> indicates equal contribution) -->
-See the full publication record on my **[latest CV](https://renzelou.github.io/RenzeLou_CV_12.13.2024.pdf)**.
+See the full publication record on my **[latest CV](https://renzelou.github.io/RenzeLou_CV_02.01.2025.pdf)**.
 
 <!-- 1. Ryo Kamoi, Sarkar Snigdha Sarathi Das, **Renze Lou**, Wenpeng Yin, Rui Zhang, and et al. <u>Evaluating LLMs at Detecting Errors in LLM Responses.</u> *arXiv Preprint 2024.* <br> [[Paper](https://arxiv.org/pdf/2404.03602.pdf)]; [[Code](https://github.com/psunlpgroup/ReaLMistake)] -->
 
