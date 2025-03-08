@@ -14,19 +14,20 @@ My name is Renze Lou ( *楼仁泽* ), a third-year PhD student at Penn State Uni
 
 My current research interests cover **AI for Science**, **Instruction Tuning** and **Agent** 🤖. I am actively looking for research collaborators. If you are interested, feel free to reach out via email 🤗.
 
-<font color="#df1a7d">I am now seeking a <u>Research Internship position for summer 2025</u>.</font> Appreciate any opportunities or referrals!
+<!-- <font color="#df1a7d">I am now seeking a <u>Research Internship position for summer 2025</u>.</font> Appreciate any opportunities or referrals! -->
 
 <!-- <font color="#df1a7d">Upcoming research internships @ Salesforce Research (Summer 2024).</font> See you in Palo Alto, CA 🌞! -->
 
 
 ## Updates:
 <!-- - **<font color="#dd0000">Important: Our group will move to Penn State University (PSU) in Jan. 2023, and welcome more new members in the future!</font><br/>** -->
+- Mar. 2025: AAAR-1.0 gets **<font color="#dd0000">Best Paper Award</font>** at the 2nd AI4Research workshop @ AAAI 2025. We uploaded the presentation slides [here](https://docs.google.com/presentation/d/1vXehCXkDe4YYj5K18rImVlFRYCrfCaXH/edit?usp=sharing&ouid=108813759184101085271&rtpof=true&sd=true).
 - Oct. 2024: We released **[AAAR-1.0](https://renzelou.github.io/AAAR-1.0/)**, a novel benchmark for quantitatively assessing LLM's capacity in assisting high-level ML research tasks. Give your LLM-scientist a spin now and see the potential! 🚀 Stay tuned for the next version of our benchmark!
 - May 2024: Start my Research internships @ Salesforce Research (Palo Alto, CA). 
 - Jan. 2024. Two papers were accepted by ICLR 2024. Thanks to all of my awesome collaborators!
 - Oct. 2023: We released ✨<img src="./../images/cupcake.png" width="18" height="18">✨ **MUFFIN**, a novel LLM-synthetic dataset for instruction tuning. Check it out on our **[project website](https://renzelou.github.io/Muffin/)** 👈.
 <!-- - Mar. 2023: 🔥🔥🔥 <font color="#dd0000">We released a comprehensive</font> **[reading list](https://github.com/RenzeLou/awesome-instruction-learning)** <font color="#dd0000">(more than 160 papers) on Instruction Learning!</font> The corresponding survey is available **[here](https://arxiv.org/abs/2303.10475)** 👈. -->
-- Mar. 2023: 🔥🔥🔥 We released **a comprehensive survey** on Instruction Learning. Check it out on [arXiv](https://arxiv.org/abs/2303.10475). The corresponding paper list (more than 160 papers) is also available on [github](https://github.com/RenzeLou/awesome-instruction-learning).
+<!-- - Mar. 2023: 🔥🔥🔥 We released **a comprehensive survey** on Instruction Learning. Check it out on [arXiv](https://arxiv.org/abs/2303.10475). The corresponding paper list (more than 160 papers) is also available on [github](https://github.com/RenzeLou/awesome-instruction-learning). -->
 <!-- - Feb. 2023: One paper accepted by ICASSP 2023. It was my first time supervising undergraduates through the whole project! -->
 <!-- - Jan. 2023: Our group moved to Penn State University.  -->
 <!-- - Oct. 2022: One paper accepted by EMNLP 2022. -->
@@ -54,7 +55,7 @@ See the full publication record on my **[latest CV](https://renzelou.github.io/R
 
 1. **Renze Lou**, Hanzi Xu, Sijia Wang, Jiangshu Du, Ryo Kamoi, Xiaoxin Lu, Jian Xie, Yuxuan Sun, Yusen
 Zhang, Jihyun Janice Ahn, Hongchao Fang, Zhuoyang Zou, Wenchao Ma, Xi Li, Kai Zhang, Congying Xia,
-Lifu Huang, Wenpeng Yin. <u>AAAR-1.0: Assessing AI’s Potential to Assist Research.</u> *arXiv Preprint 2024.* <br> [[Paper](https://arxiv.org/abs/2410.22394)]; [[Website](https://renzelou.github.io/AAAR-1.0/)]
+Lifu Huang, Wenpeng Yin. <u>AAAR-1.0: Assessing AI’s Potential to Assist Research.</u> *arXiv Preprint 2024.* <br> [[Paper](https://arxiv.org/abs/2410.22394)]; [[Website](https://renzelou.github.io/AAAR-1.0/)]<br> <font color="c22f2f">Best Paper Award </font>@ the 2nd AI4Research workshop.
 1. Jian Xie\*, Kai Zhang\*, Jiangjie Chen, Tinghui Zhu, **Renze Lou**, Yuandong Tian, Yanghua Xiao, Yu Su. <u>TravelPlanner: A Benchmark for Real-World Planning with Language Agents.</u> *In ICML 2024.* <br> [[Paper](https://arxiv.org/pdf/2402.01622.pdf)]; [[Website](https://osu-nlp-group.github.io/TravelPlanner/)] <br> <font color="c22f2f">Spotlight (3.5%)</font>
 2. **Renze Lou**, Kai Zhang, Jian Xie, Yuxuan Sun, Janice Ahn, Hanzi Xu, Yu Su, Wenpeng Yin. <u>MUFFIN: Curating Multi-Faceted Instructions for Improving Instruction-Following.</u> *In ICLR 2024.* <br> [[Paper](https://arxiv.org/abs/2312.02436)]; [[Website](https://renzelou.github.io/Muffin/)]
 3. Jian Xie\*, Kai Zhang\*, Jiangjie Chen, **Renze Lou**, Yu Su. <u>Adaptive Chameleon or Stubborn Sloth: Unraveling the Behavior of Large Language Models in Knowledge Conflicts.</u> *In ICLR 2024.* <br> [[Paper](https://arxiv.org/pdf/2305.13300.pdf)]; [[Code](https://github.com/OSU-NLP-Group/LLM-Knowledge-Conflict)] <br> <font color="c22f2f">Spotlight (5%)</font>
