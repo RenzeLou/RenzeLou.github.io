@@ -12,7 +12,7 @@ My name is Renze Lou ( *楼仁泽* ), a third-year PhD student at Penn State Uni
 
 <!-- was an undergraduate at Zhejiang University City College, advised by Prof. [Lin Sun](https://scholar.google.com/citations?user=48cqMXkAAAAJ&hl=en). -->
 
-My current research interests cover **AI for Science**, **Instruction Tuning** and **Agent** 🤖. I am actively looking for research collaborators. If you are interested, feel free to reach out via email 🤗.
+My current research interests cover **AI for Science**, **Instruction Tuning** and **Embodied Agent** 🤖. I am actively looking for research collaborators. If you are interested, feel free to reach out via email 🤗.
 
 <!-- <font color="#df1a7d">I am now seeking a <u>Research Internship position for summer 2025</u>.</font> Appreciate any opportunities or referrals! -->
 
