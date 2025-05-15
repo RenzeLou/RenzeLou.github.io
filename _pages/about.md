@@ -21,6 +21,7 @@ My current research interests cover **AI for Science**, **Instruction Tuning** a
 
 ## Updates:
 <!-- - **<font color="#dd0000">Important: Our group will move to Penn State University (PSU) in Jan. 2023, and welcome more new members in the future!</font><br/>** -->
+- May 2025: One paper accepted by ICML 2025; one paper accepted by ACL findings 2025.  
 - Mar. 2025: AAAR-1.0 gets **<font color="#dd0000">Best Paper Award</font>** at the 2nd AI4Research workshop @ AAAI 2025. We uploaded the presentation slides [here](https://docs.google.com/presentation/d/1vXehCXkDe4YYj5K18rImVlFRYCrfCaXH/edit?usp=sharing&ouid=108813759184101085271&rtpof=true&sd=true).
 - Oct. 2024: We released **[AAAR-1.0](https://renzelou.github.io/AAAR-1.0/)**, a novel benchmark for quantitatively assessing LLM's capacity in assisting high-level ML research tasks. Give your LLM-scientist a spin now and see the potential! 🚀 Stay tuned for the next version of our benchmark!
 - May 2024: Start my Research internships @ Salesforce Research (Palo Alto, CA). 
@@ -55,20 +56,20 @@ See the full publication record on my **[latest CV](https://renzelou.github.io/R
 
 1. **Renze Lou**, Hanzi Xu, Sijia Wang, Jiangshu Du, Ryo Kamoi, Xiaoxin Lu, Jian Xie, Yuxuan Sun, Yusen
 Zhang, Jihyun Janice Ahn, Hongchao Fang, Zhuoyang Zou, Wenchao Ma, Xi Li, Kai Zhang, Congying Xia,
-Lifu Huang, Wenpeng Yin. <u>AAAR-1.0: Assessing AI’s Potential to Assist Research.</u> *arXiv Preprint 2024.* <br> [[Paper](https://arxiv.org/abs/2410.22394)]; [[Website](https://renzelou.github.io/AAAR-1.0/)]<br> <font color="c22f2f">Best Paper Award </font>@ the 2nd AI4Research workshop.
-1. Jian Xie\*, Kai Zhang\*, Jiangjie Chen, Tinghui Zhu, **Renze Lou**, Yuandong Tian, Yanghua Xiao, Yu Su. <u>TravelPlanner: A Benchmark for Real-World Planning with Language Agents.</u> *In ICML 2024.* <br> [[Paper](https://arxiv.org/pdf/2402.01622.pdf)]; [[Website](https://osu-nlp-group.github.io/TravelPlanner/)] <br> <font color="c22f2f">Spotlight (3.5%)</font>
-2. **Renze Lou**, Kai Zhang, Jian Xie, Yuxuan Sun, Janice Ahn, Hanzi Xu, Yu Su, Wenpeng Yin. <u>MUFFIN: Curating Multi-Faceted Instructions for Improving Instruction-Following.</u> *In ICLR 2024.* <br> [[Paper](https://arxiv.org/abs/2312.02436)]; [[Website](https://renzelou.github.io/Muffin/)]
-3. Jian Xie\*, Kai Zhang\*, Jiangjie Chen, **Renze Lou**, Yu Su. <u>Adaptive Chameleon or Stubborn Sloth: Unraveling the Behavior of Large Language Models in Knowledge Conflicts.</u> *In ICLR 2024.* <br> [[Paper](https://arxiv.org/pdf/2305.13300.pdf)]; [[Code](https://github.com/OSU-NLP-Group/LLM-Knowledge-Conflict)] <br> <font color="c22f2f">Spotlight (5%)</font>
-4. Lin Sun\*, Kai Zhang\*, Qingyuan Li\*, **Renze Lou**. <u>UMIE: Unified Multimodal Information Extraction with Instruction Tuning.</u> *In AAAI 2024.* <br> [[Paper](https://arxiv.org/abs/2401.03082)]; [[Code](https://github.com/ZUCC-AI/UMIE)] <br> <font color="c22f2f">Oral</font>
+Lifu Huang, Wenpeng Yin. <u>AAAR-1.0: Assessing AI’s Potential to Assist Research.</u> *In ICML 2025.* <br> [[Paper](https://arxiv.org/abs/2410.22394)]; [[Website](https://renzelou.github.io/AAAR-1.0/)]<br> <font color="c22f2f">Best Paper Award </font>@ the 2nd AI4Research workshop.
+2. Jian Xie\*, Kai Zhang\*, Jiangjie Chen, Tinghui Zhu, **Renze Lou**, Yuandong Tian, Yanghua Xiao, Yu Su. <u>TravelPlanner: A Benchmark for Real-World Planning with Language Agents.</u> *In ICML 2024.* <br> [[Paper](https://arxiv.org/pdf/2402.01622.pdf)]; [[Website](https://osu-nlp-group.github.io/TravelPlanner/)] <br> <font color="c22f2f">Spotlight (3.5%)</font>
+3. **Renze Lou**, Kai Zhang, Jian Xie, Yuxuan Sun, Janice Ahn, Hanzi Xu, Yu Su, Wenpeng Yin. <u>MUFFIN: Curating Multi-Faceted Instructions for Improving Instruction-Following.</u> *In ICLR 2024.* <br> [[Paper](https://arxiv.org/abs/2312.02436)]; [[Website](https://renzelou.github.io/Muffin/)]
+4. Jian Xie\*, Kai Zhang\*, Jiangjie Chen, **Renze Lou**, Yu Su. <u>Adaptive Chameleon or Stubborn Sloth: Unraveling the Behavior of Large Language Models in Knowledge Conflicts.</u> *In ICLR 2024.* <br> [[Paper](https://arxiv.org/pdf/2305.13300.pdf)]; [[Code](https://github.com/OSU-NLP-Group/LLM-Knowledge-Conflict)] <br> <font color="c22f2f">Spotlight (5%)</font>
+5. Lin Sun\*, Kai Zhang\*, Qingyuan Li\*, **Renze Lou**. <u>UMIE: Unified Multimodal Information Extraction with Instruction Tuning.</u> *In AAAI 2024.* <br> [[Paper](https://arxiv.org/abs/2401.03082)]; [[Code](https://github.com/ZUCC-AI/UMIE)] <br> <font color="c22f2f">Oral</font>
 <!-- 5. Janice Ahn, RISHU VERMA, **Renze Lou**, Di Liu, Rui Zhang, Wenpeng Yin. <u>Large Language Models for Mathematical Reasoning: Progresses and Challenges.</u> *In EACL 2024 Student Research Workshop.* <br> [[Paper]()] -->
-1. **Renze Lou** and Wenpeng Yin. <u>Forget Demonstrations, Focus on Learning from Textual Instructions.</u> *In EACL 2024 Student Research Workshop.* <br> [[Paper](https://arxiv.org/abs/2308.03795)]; [[Code](https://github.com/RenzeLou/Pick-Rank)]
-2. **Renze Lou**, Kai Zhang, Wenpeng Yin. <u>Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning.</u> *In Computational Linguistics 2024.* <br> [[Paper](https://arxiv.org/pdf/2303.10475.pdf)]; [[Paper List](https://github.com/RenzeLou/awesome-instruction-learning)]
+6. **Renze Lou** and Wenpeng Yin. <u>Forget Demonstrations, Focus on Learning from Textual Instructions.</u> *In EACL 2024 Student Research Workshop.* <br> [[Paper](https://arxiv.org/abs/2308.03795)]; [[Code](https://github.com/RenzeLou/Pick-Rank)]
+7. **Renze Lou**, Kai Zhang, Wenpeng Yin. <u>Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning.</u> *In Computational Linguistics 2024.* <br> [[Paper](https://arxiv.org/pdf/2303.10475.pdf)]; [[Paper List](https://github.com/RenzeLou/awesome-instruction-learning)]
 <!-- 8. Xiaojie Gu, **Renze Lou**, Lin Sun, Shangxin Li. <u>PAGE: A Position-Aware Graph-Based Model for Emotion Cause Entailment in Conversation</u>. *In ICASSP 2023*. <br> [[Paper](https://arxiv.org/abs/2303.01795)]; [[Code](https://github.com/XiaojieGu/PAGE)] -->
 <!-- 9.  Yuanhe Tian, **Renze Lou**, Xiangyu Pang, Lianxi Wang, Shengyi JIANG and Yan Song. <u>Improving English-Arabic Transliteration with Phonemic Memories</u>. *In EMNLP-Findings 2022*. <br> [[Paper](https://aclanthology.org/2022.findings-emnlp.238)]; [[Data](https://github.com/synlp/EATrans)] -->
 <!-- 10. Weicheng Ma, **Renze Lou** , Kai Zhang, Lili Wang and Soroush Vosoughi. <u>GradTS: A Gradient-Based Automatic Auxiliary Task Selection Method Based on Transformer Networks</u>. *In EMNLP 2021*. <br> [[Paper](https://aclanthology.org/2021.emnlp-main.455/)]; [[Code](https://github.com/RenzeLou/GradTS)] -->
-1. Weicheng Ma\*, Kai Zhang\*, **Renze Lou**, Lili Wang and Soroush Vosoughi. <u>Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks</u>. *In ACL 2021*. <br> [[Paper](https://aclanthology.org/2021.acl-long.152/)]; [[Code](https://github.com/hikari-NYU/Contributions-of-Transformer-Attention-Heads-in-Multi--and-Cross-lingual-Tasks)] <br> <font color="c22f2f">Oral</font>
-2. **Renze Lou**\*, Yutong Wang\*, Kai Zhang\*, Maoyan Chen and Yujiu Yang. <u>MORE: A Metric Learning Based Framework for Open-Domain Relation Extraction</u>. *In ICASSP 2021*. <br> [[Paper](https://arxiv.org/abs/2206.00289)]; [[Code](https://github.com/RenzeLou/MORE)]
-3.  **Renze Lou**\*, Fan Zhang\*, Xiaowei Zhou, Yutong Wang, Minghui Wu, Lin Sun. <u>A Unified Representation Learning Strategy for Open Relation Extraction with Ranked List Loss</u>. *In CCL 2021*. <br> [[Paper](https://aclanthology.org/2021.ccl-1.98/)]; [[Code](https://github.com/RenzeLou/MORE)]
+8. Weicheng Ma\*, Kai Zhang\*, **Renze Lou**, Lili Wang and Soroush Vosoughi. <u>Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks</u>. *In ACL 2021*. <br> [[Paper](https://aclanthology.org/2021.acl-long.152/)]; [[Code](https://github.com/hikari-NYU/Contributions-of-Transformer-Attention-Heads-in-Multi--and-Cross-lingual-Tasks)] <br> <font color="c22f2f">Oral</font>
+9. **Renze Lou**\*, Yutong Wang\*, Kai Zhang\*, Maoyan Chen and Yujiu Yang. <u>MORE: A Metric Learning Based Framework for Open-Domain Relation Extraction</u>. *In ICASSP 2021*. <br> [[Paper](https://arxiv.org/abs/2206.00289)]; [[Code](https://github.com/RenzeLou/MORE)]
+10.  **Renze Lou**\*, Fan Zhang\*, Xiaowei Zhou, Yutong Wang, Minghui Wu, Lin Sun. <u>A Unified Representation Learning Strategy for Open Relation Extraction with Ranked List Loss</u>. *In CCL 2021*. <br> [[Paper](https://aclanthology.org/2021.ccl-1.98/)]; [[Code](https://github.com/RenzeLou/MORE)]
 
 
 ## Work Experience:
@@ -88,6 +89,7 @@ Lifu Huang, Wenpeng Yin. <u>AAAR-1.0: Assessing AI’s Potential to Assist Resea
 
 
 ## Selected Awards:
+- Best Research Assistant Award. <br> \-- Awarded by CSE department, PSU, 2025. 
 - Outstanding Technical Contribution Grant for OpenVINO. <br> \-- Awarded by Intel, 2022.
 - Outstanding Graduates of Zhejiang Province (*浙江省杰出毕业生*). <br> \-- Awarded by Zhejiang Provincial Government, 2022.
 - Zhejiang Provincial Government Scholarship (*浙江省级政府奖学金*). <br> \-- Awarded by Zhejiang Provincial Government, 2021.
@@ -95,7 +97,7 @@ Lifu Huang, Wenpeng Yin. <u>AAAR-1.0: Assessing AI’s Potential to Assist Resea
 ## Services:
 - **Tutorial & Workshop Organizer**: `SciCap Challenge @ IJCAI 2024`; `Instruction Following Tutorial @ EMNLP 2025`.
 - **Area Chair**: `AI4Research @ AAAI 2025`.
-- **Reviewer**: `COLM (since 2025)`; `ICLR (since 2024)`; `ACL Rolling Review (since 2023)`; `ACL (since 2023)`; `EMNLP (since 2022)`; `StarSEM (since 2023)`; `Instruction Workshop @ NeurIPS 2023`; `UDM @ KDD 2023`; `ToM @ ICML 2023`; `AKBC 2022`.
+- **Reviewer**: `ICCV (since 2025)`; `COLM (since 2025)`; `ICLR (since 2024)`; `CCL (since 2024)`;`ACL Rolling Review (since 2023)`; `ACL (since 2023)`; `EMNLP (since 2022)`; `StarSEM (since 2023)`; `Instruction Workshop @ NeurIPS 2023`; `UDM @ KDD 2023`; `ToM @ ICML 2023`; `AKBC 2022`.
 
 - **External Reviewer**: `EMNLP (since 2021)`; `NLPCC 2023`; `CCL 2023`; `IJCAI 2021`; `JISF`.
 
