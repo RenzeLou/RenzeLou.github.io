@@ -97,7 +97,7 @@ Lifu Huang, Wenpeng Yin. <u>AAAR-1.0: Assessing AI’s Potential to Assist Resea
 ## Services:
 - **Tutorial & Workshop Organizer**: `SciCap Challenge @ IJCAI 2024`; `Instruction Following Tutorial @ EMNLP 2025`.
 - **Area Chair**: `AI4Research @ AAAI 2025`.
-- **Reviewer**: `ICCV (since 2025)`; `COLM (since 2025)`; `ICLR (since 2024)`; `CCL (since 2024)`;`ACL Rolling Review (since 2023)`; `ACL (since 2023)`; `EMNLP (since 2022)`; `StarSEM (since 2023)`; `Instruction Workshop @ NeurIPS 2023`; `UDM @ KDD 2023`; `ToM @ ICML 2023`; `AKBC 2022`.
+- **Reviewer**: `ICCV (since 2025)`; `SciSocLLM Workshop @ KDD 2025`; `COLM (since 2025)`; `ICLR (since 2024)`; `CCL (since 2024)`;`ACL Rolling Review (since 2023)`; `ACL (since 2023)`; `EMNLP (since 2022)`; `StarSEM (since 2023)`; `Instruction Workshop @ NeurIPS 2023`; `UDM @ KDD 2023`; `ToM @ ICML 2023`; `AKBC 2022`.
 
 - **External Reviewer**: `EMNLP (since 2021)`; `NLPCC 2023`; `CCL 2023`; `IJCAI 2021`; `JISF`.
 
