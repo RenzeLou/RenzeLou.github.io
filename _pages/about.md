@@ -12,7 +12,7 @@ My name is Renze Lou ( *楼仁泽* ), a third-year PhD student at Penn State Uni
 
 <!-- was an undergraduate at Zhejiang University City College, advised by Prof. [Lin Sun](https://scholar.google.com/citations?user=48cqMXkAAAAJ&hl=en). -->
 
-My current research interests cover **AI for Science**, **Instruction Tuning** and **Embodied Agent** 🤖. I am actively looking for research collaborators. If you are interested, feel free to reach out via email 🤗.
+My current research interests cover **AI for Science**, **Instruction Tuning** and **Tool-use & GUI Agent** 🤖. I am actively looking for research collaborators. If you are interested, feel free to reach out via email 🤗.
 
 <!-- <font color="#df1a7d">I am now seeking a <u>Research Internship position for summer 2025</u>.</font> Appreciate any opportunities or referrals! -->
 
@@ -74,7 +74,12 @@ Lifu Huang, Wenpeng Yin. <u>AAAR-1.0: Assessing AI’s Potential to Assist Resea
 
 ## Work Experience:
 
-- **Research Intern** @ SalesForce AI Research. <br> \-- [Yingbo Zhou](https://scholar.google.com/citations?user=H_6RQ7oAAAAJ&hl=en)'s group. May 2024 ~ Aug. 2024.
+
+- **Research Intern** @ Microsoft Research. <br> June 2025 ~ Aug. 2025.
+<!-- -- [Baolin Peng]()'s group. -->
+
+- **Research Intern** @ SalesForce AI Research. <br> May 2024 ~ Aug. 2024.
+<!-- -- [Yingbo Zhou](https://scholar.google.com/citations?user=H_6RQ7oAAAAJ&hl=en)'s group. -->
 
 - **Research Assistant** @ The Chinese University of Hongkong (Shenzhen). <br> \-- Cooperated with Prof. [Yan Song](https://scholar.google.com.hk/citations?hl=en&user=MsRp7g0AAAAJ) and [Yuanhe Tian](https://scholar.google.com/citations?user=5GCwWZ8AAAAJ&hl=en) (University of Washington). Oct. 2021 ~ May 2022. 
 - **Research Intern** @ Dartmouth College. <br> \-- Worked closely with Prof. [Soroush Vosoughi](https://scholar.google.com.hk/citations?user=45DAXkwAAAAJ&hl=en) and [Weicheng Ma](https://scholar.google.com.hk/citations?user=njnBrb4AAAAJ&hl=en). Oct. 2020 ~ Aug. 2021. 
@@ -96,7 +101,7 @@ Lifu Huang, Wenpeng Yin. <u>AAAR-1.0: Assessing AI’s Potential to Assist Resea
   
 ## Services:
 - **Tutorial & Workshop Organizer**: `SciCap Challenge @ IJCAI 2024`; `Instruction Following Tutorial @ EMNLP 2025`.
-- **Area Chair**: `AI4Research @ AAAI 2025`.
+- **Area Chair**: `EMNLP 2025`; `AI4Research @ AAAI 2025`; `SEA @ NeurIPS 2025`.
 - **Reviewer**: `ICCV (since 2025)`; `SciSocLLM Workshop @ KDD 2025`; `COLM (since 2025)`; `ICLR (since 2024)`; `CCL (since 2024)`;`ACL Rolling Review (since 2023)`; `ACL (since 2023)`; `EMNLP (since 2022)`; `StarSEM (since 2023)`; `Instruction Workshop @ NeurIPS 2023`; `UDM @ KDD 2023`; `ToM @ ICML 2023`; `AKBC 2022`.
 
 - **External Reviewer**: `EMNLP (since 2021)`; `NLPCC 2023`; `CCL 2023`; `IJCAI 2021`; `JISF`.
