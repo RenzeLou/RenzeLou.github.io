@@ -1,0 +1,15 @@
+[[items]]
+logo = "/microsoft_logo.png"
+company = "Microsoft Research"
+role = "Research Intern"
+date = "Jun 2025 - Aug 2025"
+location = "Redmond, WA"
+tags = ["GUI Web Agent", "Tool-use Agent", "MCP & Skill"]
+
+[[items]]
+logo = "/Salesforce_logo.svg.png"
+company = "Salesforce AI Research"
+role = "Research Intern"
+date = "May 2024 - Aug 2024"
+location = "Palo Alto, CA"
+tags = ["Multi-Agent", "Coding Agent"]
