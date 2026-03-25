@@ -1,0 +1,66 @@
+[site]
+title = "Renze Lou"
+description = "PhD student at Penn State University, working on AI for Science, Instruction Tuning, and Tool-use & GUI Agents."
+favicon = "/favicon.svg"
+last_updated = "March 2025"
+
+[author]
+name = "Renze Lou"
+title = "PhD Student"
+institution = "Penn State University"
+avatar = "/bio.jpg"
+
+[social]
+email = "renze.lou@psu.edu"
+location = "State College, PA"
+location_url = "https://maps.google.com/?q=State+College+PA"
+google_scholar = "https://scholar.google.com/citations?user=GVTbSPMAAAAJ"
+github = "https://github.com/RenzeLou"
+linkedin = "https://www.linkedin.com/in/renze-lou-b681b51a0"
+twitter = "https://twitter.com/Reza0843"
+
+[features]
+enable_likes = false
+enable_one_page_mode = false
+
+[i18n]
+enabled = false
+locales = ["en"]
+default_locale = "en"
+mode = "fixed"
+fixed_locale = "en"
+persist = false
+switcher = false
+
+[i18n.labels]
+en = "English"
+
+[[navigation]]
+title = "About"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "Publications"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "Awards"
+type = "page"
+target = "awards"
+href = "/awards"
+
+[[navigation]]
+title = "Services"
+type = "page"
+target = "services"
+href = "/services"
+
+[[navigation]]
+title = "CV"
+type = "page"
+target = "cv"
+href = "/cv"

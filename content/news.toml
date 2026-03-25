@@ -1,0 +1,23 @@
+[[news]]
+date = "2025-05"
+content = "One paper accepted by **ICML 2025**; one paper accepted by **ACL Findings 2025**."
+
+[[news]]
+date = "2025-03"
+content = "AAAR-1.0 wins **Best Paper Award** at the 2nd AI4Research workshop @ AAAI 2025!"
+
+[[news]]
+date = "2024-10"
+content = "Released [AAAR-1.0](https://renzelou.github.io/AAAR-1.0/), a benchmark for assessing LLM's capacity in assisting high-level ML research tasks."
+
+[[news]]
+date = "2024-05"
+content = "Started Research Internship @ **Salesforce Research** (Palo Alto, CA)."
+
+[[news]]
+date = "2024-01"
+content = "Two papers accepted by **ICLR 2024**. Thanks to all my awesome collaborators!"
+
+[[news]]
+date = "2023-10"
+content = "Released [MUFFIN](https://renzelou.github.io/Muffin/), a novel LLM-synthetic dataset for instruction tuning."
