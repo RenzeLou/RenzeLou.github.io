@@ -6,7 +6,7 @@ import WelcomeSplash from '@/components/home/WelcomeSplash';
 
 const INTRO_SESSION_KEY = 'reza-home-intro-seen';
 const HOLD_DURATION_MS = 5300;
-const EXIT_DURATION_MS = 2250;
+const EXIT_DURATION_MS = 1250;
 
 interface HomeIntroGateProps {
   authorName: string;
