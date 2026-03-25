@@ -2,14 +2,14 @@
 logo = "/psu_logo.jpg"
 school = "Penn State University"
 degree = "Ph.D. in Computer Science & Engineering"
-date = "2023 - Present"
+date = "2022 - Present"
 active = true
 
 [[items]]
 logo = "/psu_logo.jpg"
 school = "Penn State University"
 degree = "M.S. in Computer Science & Engineering"
-date = "Expected Spring 2026"
+date = "2022 - 2025"
 active = false
 
 [[items]]

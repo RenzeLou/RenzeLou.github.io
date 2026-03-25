@@ -1,13 +1,6 @@
 type = "about"
 title = "About"
 
-[profile]
-research_interests = [
-  "AI for Science",
-  "Instruction Tuning",
-  "Tool-use & GUI Agents"
-]
-
 [[sections]]
 id = "about"
 type = "markdown"

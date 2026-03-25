@@ -54,6 +54,8 @@ export default function HomePageClient({ dataByLocale, defaultLocale }: HomePage
   const locale = useLocaleStore((state) => state.locale);
   const fallback = dataByLocale[defaultLocale] || Object.values(dataByLocale)[0];
   const data = dataByLocale[locale] || fallback;
+  const aboutPage = data?.pagesToShow.find((page): page is Extract<PageData, { type: 'about' }> => page.type === 'about');
+  const sidebarEducation = aboutPage?.sections.find((section) => section.type === 'education')?.educationItems || [];
 
   if (!data) {
     return null;
@@ -69,17 +71,24 @@ export default function HomePageClient({ dataByLocale, defaultLocale }: HomePage
         transition={{ duration: 0.75, ease: 'easeOut', delay: 0.1 }}
         className="max-w-6xl mx-auto min-h-screen bg-background px-4 py-8 sm:px-6 lg:px-8"
       >
-        <div className="grid grid-cols-1 gap-12 lg:grid-cols-3">
-          <div className="lg:col-span-1">
+        <div className="grid grid-cols-1 gap-8 lg:grid-cols-[minmax(0,0.92fr)_minmax(0,1.78fr)] lg:gap-12">
+          <div className="space-y-4 lg:sticky lg:top-8 lg:self-start">
             <Profile
               author={data.author}
               social={data.social}
               features={data.features}
-              researchInterests={data.researchInterests}
             />
+
+            {sidebarEducation.length > 0 && (
+              <Education
+                items={sidebarEducation}
+                title="Education"
+                variant="compact"
+              />
+            )}
           </div>
 
-          <div className="space-y-8 lg:col-span-2">
+          <div className="space-y-8">
             {data.pagesToShow.map((page) => (
               <section key={page.id} id={page.id} className="scroll-mt-24 space-y-8">
                 {page.type === 'about' && page.sections.map((section: SectionConfig) => {
@@ -118,13 +127,7 @@ export default function HomePageClient({ dataByLocale, defaultLocale }: HomePage
                         />
                       );
                     case 'education':
-                      return (
-                        <Education
-                          key={section.id}
-                          items={section.educationItems || []}
-                          title={section.title}
-                        />
-                      );
+                      return null;
                     default:
                       return null;
                   }
