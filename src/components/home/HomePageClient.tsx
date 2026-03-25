@@ -1,11 +1,13 @@
 'use client';
 
+import { motion } from 'framer-motion';
 import Profile from '@/components/home/Profile';
 import About from '@/components/home/About';
 import SelectedPublications from '@/components/home/SelectedPublications';
 import News, { NewsItem } from '@/components/home/News';
 import Experience, { ExperienceItem } from '@/components/home/Experience';
 import Education, { EducationItem } from '@/components/home/Education';
+import HomeIntroGate from '@/components/home/HomeIntroGate';
 import PublicationsList from '@/components/publications/PublicationsList';
 import TextPage from '@/components/pages/TextPage';
 import CardPage from '@/components/pages/CardPage';
@@ -58,91 +60,100 @@ export default function HomePageClient({ dataByLocale, defaultLocale }: HomePage
   }
 
   return (
-    <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8 bg-background min-h-screen">
-      <div className="grid grid-cols-1 lg:grid-cols-3 gap-12">
-        <div className="lg:col-span-1">
-          <Profile
-            author={data.author}
-            social={data.social}
-            features={data.features}
-            researchInterests={data.researchInterests}
-          />
-        </div>
+    <>
+      <HomeIntroGate authorName={data.author.name} />
 
-        <div className="lg:col-span-2 space-y-8">
-          {data.pagesToShow.map((page) => (
-            <section key={page.id} id={page.id} className="scroll-mt-24 space-y-8">
-              {page.type === 'about' && page.sections.map((section: SectionConfig) => {
-                switch (section.type) {
-                  case 'markdown':
-                    return (
-                      <About
-                        key={section.id}
-                        content={section.content || ''}
-                        title={section.title}
-                      />
-                    );
-                  case 'publications':
-                    return (
-                      <SelectedPublications
-                        key={section.id}
-                        publications={section.publications || []}
-                        title={section.title}
-                        enableOnePageMode={data.enableOnePageMode}
-                      />
-                    );
-                  case 'list':
-                    return (
-                      <News
-                        key={section.id}
-                        items={section.items || []}
-                        title={section.title}
-                      />
-                    );
-                  case 'experience':
-                    return (
-                      <Experience
-                        key={section.id}
-                        items={section.experienceItems || []}
-                        title={section.title}
-                      />
-                    );
-                  case 'education':
-                    return (
-                      <Education
-                        key={section.id}
-                        items={section.educationItems || []}
-                        title={section.title}
-                      />
-                    );
-                  default:
-                    return null;
-                }
-              })}
-              {page.type === 'publication' && (
-                <PublicationsList
-                  config={page.config}
-                  publications={page.publications}
-                  embedded={true}
-                />
-              )}
-              {page.type === 'text' && (
-                <TextPage
-                  config={page.config}
-                  content={page.content}
-                  embedded={true}
-                />
-              )}
-              {page.type === 'card' && (
-                <CardPage
-                  config={page.config}
-                  embedded={true}
-                />
-              )}
-            </section>
-          ))}
+      <motion.div
+        initial={{ opacity: 0, y: 24 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.75, ease: 'easeOut', delay: 0.1 }}
+        className="max-w-6xl mx-auto min-h-screen bg-background px-4 py-8 sm:px-6 lg:px-8"
+      >
+        <div className="grid grid-cols-1 gap-12 lg:grid-cols-3">
+          <div className="lg:col-span-1">
+            <Profile
+              author={data.author}
+              social={data.social}
+              features={data.features}
+              researchInterests={data.researchInterests}
+            />
+          </div>
+
+          <div className="space-y-8 lg:col-span-2">
+            {data.pagesToShow.map((page) => (
+              <section key={page.id} id={page.id} className="scroll-mt-24 space-y-8">
+                {page.type === 'about' && page.sections.map((section: SectionConfig) => {
+                  switch (section.type) {
+                    case 'markdown':
+                      return (
+                        <About
+                          key={section.id}
+                          content={section.content || ''}
+                          title={section.title}
+                        />
+                      );
+                    case 'publications':
+                      return (
+                        <SelectedPublications
+                          key={section.id}
+                          publications={section.publications || []}
+                          title={section.title}
+                          enableOnePageMode={data.enableOnePageMode}
+                        />
+                      );
+                    case 'list':
+                      return (
+                        <News
+                          key={section.id}
+                          items={section.items || []}
+                          title={section.title}
+                        />
+                      );
+                    case 'experience':
+                      return (
+                        <Experience
+                          key={section.id}
+                          items={section.experienceItems || []}
+                          title={section.title}
+                        />
+                      );
+                    case 'education':
+                      return (
+                        <Education
+                          key={section.id}
+                          items={section.educationItems || []}
+                          title={section.title}
+                        />
+                      );
+                    default:
+                      return null;
+                  }
+                })}
+                {page.type === 'publication' && (
+                  <PublicationsList
+                    config={page.config}
+                    publications={page.publications}
+                    embedded={true}
+                  />
+                )}
+                {page.type === 'text' && (
+                  <TextPage
+                    config={page.config}
+                    content={page.content}
+                    embedded={true}
+                  />
+                )}
+                {page.type === 'card' && (
+                  <CardPage
+                    config={page.config}
+                    embedded={true}
+                  />
+                )}
+              </section>
+            ))}
+          </div>
         </div>
-      </div>
-    </div>
+      </motion.div>
+    </>
   );
 }
