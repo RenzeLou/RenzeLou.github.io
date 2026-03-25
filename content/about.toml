@@ -15,6 +15,12 @@ source = "bio.md"
 title = "About"
 
 [[sections]]
+id = "education"
+type = "education"
+title = "Education"
+source = "education.toml"
+
+[[sections]]
 id = "experience"
 type = "experience"
 title = "Work Experience"

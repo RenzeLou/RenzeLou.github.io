@@ -15,9 +15,17 @@ interface ExperienceItem {
   tags?: string[];
 }
 
+interface EducationItem {
+  logo: string;
+  school: string;
+  degree: string;
+  date: string;
+  active?: boolean;
+}
+
 interface SectionConfig {
   id: string;
-  type: 'markdown' | 'publications' | 'list' | 'experience';
+  type: 'markdown' | 'publications' | 'list' | 'experience' | 'education';
   title?: string;
   source?: string;
   filter?: string;
@@ -26,6 +34,7 @@ interface SectionConfig {
   publications?: Publication[];
   items?: NewsItem[];
   experienceItems?: ExperienceItem[];
+  educationItems?: EducationItem[];
 }
 
 interface NewsItem {
@@ -70,6 +79,13 @@ function processSections(sections: SectionConfig[], locale?: string): SectionCon
         return {
           ...section,
           experienceItems: expData?.items || [],
+        };
+      }
+      case 'education': {
+        const eduData = section.source ? getTomlContent<{ items: EducationItem[] }>(section.source, locale) : null;
+        return {
+          ...section,
+          educationItems: eduData?.items || [],
         };
       }
       default:

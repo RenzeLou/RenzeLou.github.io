@@ -1,0 +1,20 @@
+[[items]]
+logo = "/psu_logo.jpg"
+school = "Penn State University"
+degree = "Ph.D. in Computer Science & Engineering"
+date = "2023 - Present"
+active = true
+
+[[items]]
+logo = "/psu_logo.jpg"
+school = "Penn State University"
+degree = "M.S. in Computer Science & Engineering"
+date = "Expected Spring 2026"
+active = false
+
+[[items]]
+logo = "/zucc_logo.png"
+school = "Zhejiang University City College"
+degree = "B.Eng. in Computer Science"
+date = "2018 - 2022"
+active = false
