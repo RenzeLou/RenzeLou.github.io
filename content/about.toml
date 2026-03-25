@@ -14,11 +14,13 @@ type = "markdown"
 source = "bio.md"
 title = "About"
 
+
 [[sections]]
-id = "education"
-type = "education"
-title = "Education"
-source = "education.toml"
+id = "featured_publications"
+type = "publications"
+title = "Selected Publications"
+filter = "selected"
+limit = 6
 
 [[sections]]
 id = "experience"
@@ -27,11 +29,10 @@ title = "Work Experience"
 source = "experience.toml"
 
 [[sections]]
-id = "featured_publications"
-type = "publications"
-title = "Selected Publications"
-filter = "selected"
-limit = 6
+id = "education"
+type = "education"
+title = "Education"
+source = "education.toml"
 
 [[sections]]
 id = "news"
