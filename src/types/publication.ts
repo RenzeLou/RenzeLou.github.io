@@ -37,6 +37,7 @@ export interface Publication {
   quartile?: 'Q1' | 'Q2' | 'Q3' | 'Q4';
   bibtex?: string;
   venue?: string;
+  tag?: string;
   location?: string;
   awards?: string[];
   featured?: boolean;
@@ -77,4 +78,3 @@ export type ResearchArea =
   | 'transformer-architectures'
   | 'biomedical-engineering'
   | 'other';
-

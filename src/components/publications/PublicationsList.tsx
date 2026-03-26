@@ -8,8 +8,7 @@ import {
     FunnelIcon,
     CalendarIcon,
     BookOpenIcon,
-    ClipboardDocumentIcon,
-    DocumentTextIcon
+    ClipboardDocumentIcon
 } from '@heroicons/react/24/outline';
 import { Publication } from '@/types/publication';
 import { PublicationPageConfig } from '@/types/page';
@@ -22,6 +21,24 @@ interface PublicationsListProps {
     embedded?: boolean;
 }
 
+const MAX_VISIBLE_AUTHORS = 5;
+
+function getVisibleAuthors(authors: Publication['authors']) {
+    if (authors.length <= MAX_VISIBLE_AUTHORS) {
+        return { authors, truncated: false };
+    }
+
+    const highlightedIndex = authors.findIndex((author) => author.isHighlighted);
+    const cutoffIndex = highlightedIndex >= MAX_VISIBLE_AUTHORS
+        ? highlightedIndex + 1
+        : MAX_VISIBLE_AUTHORS;
+
+    return {
+        authors: authors.slice(0, cutoffIndex),
+        truncated: cutoffIndex < authors.length,
+    };
+}
+
 export default function PublicationsList({ config, publications, embedded = false }: PublicationsListProps) {
     const messages = useMessages();
     const [searchQuery, setSearchQuery] = useState('');
@@ -29,8 +46,6 @@ export default function PublicationsList({ config, publications, embedded = fals
     const [selectedType, setSelectedType] = useState<string | 'all'>('all');
     const [showFilters, setShowFilters] = useState(false);
     const [expandedBibtexId, setExpandedBibtexId] = useState<string | null>(null);
-    const [expandedAbstractId, setExpandedAbstractId] = useState<string | null>(null);
-
     // Extract unique years and types for filters
     const years = useMemo(() => {
         const uniqueYears = Array.from(new Set(publications.map(p => p.year)));
@@ -213,35 +228,49 @@ export default function PublicationsList({ config, publications, embedded = fals
                                     </div>
                                 )}
                                 <div className="flex-grow">
+                                    {(() => {
+                                        const { authors: visibleAuthors, truncated } = getVisibleAuthors(pub.authors);
+
+                                        return (
+                                            <>
                                     <h3 className={`${embedded ? "text-lg" : "text-xl"} font-semibold text-primary mb-2 leading-tight`}>
                                         {pub.title}
                                     </h3>
                                     <p className={`${embedded ? "text-sm" : "text-base"} text-neutral-600 dark:text-neutral-400 mb-2`}>
-                                        {pub.authors.map((author, idx) => (
+                                        {visibleAuthors.map((author, idx) => (
                                             <span key={idx}>
-                                                <span className={`${author.isHighlighted ? 'font-semibold text-accent' : ''} ${author.isCoAuthor ? `underline underline-offset-4 ${author.isHighlighted ? 'decoration-accent' : 'decoration-neutral-400'}` : ''}`}>
+                                                <span className={`${author.isHighlighted ? 'font-semibold text-primary dark:text-neutral-100' : ''} ${author.isCoAuthor ? `underline underline-offset-4 ${author.isHighlighted ? 'decoration-neutral-700 dark:decoration-neutral-200' : 'decoration-neutral-400'}` : ''}`}>
                                                     {author.name}
                                                 </span>
                                                 {author.isCorresponding && (
-                                                    <sup className={`ml-0 ${author.isHighlighted ? 'text-accent' : 'text-neutral-600 dark:text-neutral-400'}`}>†</sup>
+                                                    <sup className={`ml-0 ${author.isHighlighted ? 'text-primary dark:text-neutral-100' : 'text-neutral-600 dark:text-neutral-400'}`}>†</sup>
                                                 )}
-                                                {idx < pub.authors.length - 1 && ', '}
+                                                {idx < visibleAuthors.length - 1 && ', '}
                                             </span>
                                         ))}
+                                        {truncated && <span>, et al.</span>}
                                     </p>
-                                    <p className="text-sm font-medium text-neutral-800 dark:text-neutral-600 mb-3">
-                                        {pub.journal || pub.conference} {pub.year}
-                                    </p>
-
-                                    {pub.description && (
-                                        <p className="text-sm text-neutral-600 dark:text-neutral-500 mb-4 line-clamp-3">
-                                            {pub.description}
-                                        </p>
+                                    {((pub.venue || pub.journal || pub.conference) || pub.tag) && (
+                                        <div className="mb-3 flex flex-wrap items-center gap-2 text-sm">
+                                            {(pub.venue || pub.journal || pub.conference) && (
+                                                <span className="font-medium text-neutral-800 dark:text-neutral-300">
+                                                    {pub.venue || `${pub.journal || pub.conference} ${pub.year}`}
+                                                </span>
+                                            )}
+                                            {pub.tag && (
+                                                <>
+                                                    <span className="text-neutral-300 dark:text-neutral-600">|</span>
+                                                    <span className="inline-flex items-center rounded-full border border-red-200 bg-red-50 px-2.5 py-1 font-mono text-[11px] font-semibold text-red-600 dark:border-red-900/60 dark:bg-red-950/40 dark:text-red-400">
+                                                        {pub.tag}
+                                                    </span>
+                                                </>
+                                            )}
+                                        </div>
                                     )}
 
-                                    <div className="flex flex-wrap gap-2 mt-auto">
-                                        {pub.doi && (
-                                            <a
+                                            <div className="flex flex-wrap gap-2 mt-auto">
+                                                {pub.doi && (
+                                                    <a
                                                 href={`https://doi.org/${pub.doi}`}
                                                 target="_blank"
                                                 rel="noopener noreferrer"
@@ -260,23 +289,9 @@ export default function PublicationsList({ config, publications, embedded = fals
                                                 {messages.publications.code}
                                             </a>
                                         )}
-                                        {pub.abstract && (
-                                            <button
-                                                onClick={() => setExpandedAbstractId(expandedAbstractId === pub.id ? null : pub.id)}
-                                                className={cn(
-                                                    "inline-flex items-center px-3 py-1 rounded-md text-xs font-medium transition-colors",
-                                                    expandedAbstractId === pub.id
-                                                        ? "bg-accent text-white"
-                                                        : "bg-neutral-100 dark:bg-neutral-800 text-neutral-700 dark:text-neutral-300 hover:bg-accent hover:text-white"
-                                                )}
-                                            >
-                                                <DocumentTextIcon className="h-3 w-3 mr-1.5" />
-                                                {messages.publications.abstract}
-                                            </button>
-                                        )}
-                                        {pub.bibtex && (
-                                            <button
-                                                onClick={() => setExpandedBibtexId(expandedBibtexId === pub.id ? null : pub.id)}
+                                                {pub.bibtex && (
+                                                    <button
+                                                        onClick={() => setExpandedBibtexId(expandedBibtexId === pub.id ? null : pub.id)}
                                                 className={cn(
                                                     "inline-flex items-center px-3 py-1 rounded-md text-xs font-medium transition-colors",
                                                     expandedBibtexId === pub.id
@@ -290,25 +305,10 @@ export default function PublicationsList({ config, publications, embedded = fals
                                         )}
                                     </div>
 
-                                    <AnimatePresence>
-                                        {expandedAbstractId === pub.id && pub.abstract ? (
-                                            <motion.div
-                                                key="abstract"
-                                                initial={{ opacity: 0, height: 0 }}
-                                                animate={{ opacity: 1, height: 'auto' }}
-                                                exit={{ opacity: 0, height: 0 }}
-                                                className="overflow-hidden mt-4"
-                                            >
-                                                <div className="bg-neutral-50 dark:bg-neutral-800 rounded-lg p-4 border border-neutral-200 dark:border-neutral-700">
-                                                    <p className="text-sm text-neutral-600 dark:text-neutral-500 leading-relaxed">
-                                                        {pub.abstract}
-                                                    </p>
-                                                </div>
-                                            </motion.div>
-                                        ) : null}
-                                        {expandedBibtexId === pub.id && pub.bibtex ? (
-                                            <motion.div
-                                                key="bibtex"
+                                            <AnimatePresence>
+                                                {expandedBibtexId === pub.id && pub.bibtex ? (
+                                                    <motion.div
+                                                        key="bibtex"
                                                 initial={{ opacity: 0, height: 0 }}
                                                 animate={{ opacity: 1, height: 'auto' }}
                                                 exit={{ opacity: 0, height: 0 }}
@@ -332,6 +332,9 @@ export default function PublicationsList({ config, publications, embedded = fals
                                             </motion.div>
                                         ) : null}
                                     </AnimatePresence>
+                                            </>
+                                        );
+                                    })()}
                                 </div>
                             </div>
                         </motion.div>
