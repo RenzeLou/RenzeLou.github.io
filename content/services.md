@@ -1,0 +1,3 @@
+- **Tutorial & Workshop Organizer:** SciCap Challenge @ IJCAI 2024; IF Tutorial @ EMNLP 2025
+- **Area Chair:** EMNLP 2025; AI4Research @ AAAI 2025; SEA @ NeurIPS 2025
+- **Reviewer:** ICCV (since 2025); COLM (since 2025); ICLR (since 2024); ACL Rolling Review (since 2022); Instruction Workshop @ NeurIPS 2023; UDM @ KDD 2023; ToM @ ICML 2023; StarSEM (since 2023); AKBC 2022; NLPCC 2023; CCL 2023; IJCAI 2021; JISF

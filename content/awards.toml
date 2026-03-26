@@ -1,33 +1,4 @@
-type = "card"
+type = "text"
 title = "Awards"
 description = "Honors and awards."
-
-[[items]]
-title = "Best Paper Award"
-subtitle = "2nd AI4Research Workshop @ AAAI 2025"
-date = "2025"
-content = "For the paper AAAR-1.0: Assessing AI's Potential to Assist Research."
-
-[[items]]
-title = "Best Research Assistant Award"
-subtitle = "CSE Department, Penn State University"
-date = "2025"
-content = "Awarded by the CSE department for outstanding research contributions."
-
-[[items]]
-title = "Outstanding Technical Contribution Grant for OpenVINO"
-subtitle = "Intel"
-date = "2022"
-content = "Awarded by Intel for technical contributions to the OpenVINO toolkit."
-
-[[items]]
-title = "Outstanding Graduates of Zhejiang Province"
-subtitle = "Zhejiang Provincial Government"
-date = "2022"
-content = "Awarded by the Zhejiang Provincial Government."
-
-[[items]]
-title = "Zhejiang Provincial Government Scholarship"
-subtitle = "Zhejiang Provincial Government"
-date = "2021"
-content = "Awarded by the Zhejiang Provincial Government."
+source = "awards.md"

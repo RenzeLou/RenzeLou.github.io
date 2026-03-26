@@ -1,0 +1,8 @@
+- **2025** Best Research Assistant (awarded by PSU)
+- **2022** Outstanding Technical Contribution Grant for OpenVINO (awarded by Intel)
+- **2022** Outstanding Graduates of Zhejiang Province (3%, awarded by Zhejiang Provincial Government)
+- **2021** Zhejiang Provincial Government Scholarship (3%, awarded by Zhejiang Provincial Government)
+- **2021** First Class Scholarship for Excellence in Scientific Research (5%, awarded by ZUCC)
+- **2021** First Class Scholarship for Excellence in Competition Performance (5%, awarded by ZUCC)
+- **2020, 2021** Second Class Scholarship for Academic Performance and Innovation (5%, awarded by ZUCC)
+- **2019** First Class Scholarship for Academic Performance and Innovation (1%, awarded by ZUCC)
