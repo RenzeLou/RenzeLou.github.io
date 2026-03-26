@@ -14,6 +14,31 @@ import { useLocaleStore } from '@/lib/stores/localeStore';
 import { useMessages } from '@/lib/i18n/useMessages';
 import type { I18nRuntimeConfig } from '@/types/i18n';
 
+function RobotMark() {
+  return (
+    <svg
+      viewBox="0 0 64 64"
+      aria-hidden="true"
+      className="h-8 w-8 lg:h-9 lg:w-9"
+    >
+      <rect width="64" height="64" rx="16" fill="#f4efe7" />
+      <rect x="16" y="18" width="32" height="24" rx="8" fill="#1e293b" />
+      <rect x="20" y="22" width="24" height="16" rx="5" fill="#f8fafc" />
+      <circle cx="27" cy="30" r="3" fill="#1e293b" />
+      <circle cx="37" cy="30" r="3" fill="#1e293b" />
+      <rect x="28" y="10" width="8" height="7" rx="3" fill="#1e293b" />
+      <rect x="30" y="6" width="4" height="6" rx="2" fill="#d4a562" />
+      <rect x="26" y="40" width="12" height="4" rx="2" fill="#1e293b" />
+      <rect x="12" y="23" width="5" height="13" rx="2.5" fill="#1e293b" />
+      <rect x="47" y="23" width="5" height="13" rx="2.5" fill="#1e293b" />
+      <circle cx="14.5" cy="29.5" r="2" fill="#d4a562" />
+      <circle cx="49.5" cy="29.5" r="2" fill="#d4a562" />
+      <rect x="21" y="47" width="6" height="9" rx="3" fill="#1e293b" />
+      <rect x="37" y="47" width="6" height="9" rx="3" fill="#1e293b" />
+    </svg>
+  );
+}
+
 interface NavigationProps {
   items: SiteConfig['navigation'];
   siteTitle: string;
@@ -182,9 +207,10 @@ export default function Navigation({
                 >
                   <Link
                     href="/"
-                    className="text-xl lg:text-2xl font-serif font-semibold text-primary hover:text-accent transition-colors duration-200"
+                    className="flex items-center gap-2.5 text-xl lg:text-2xl font-serif font-semibold text-primary hover:text-accent transition-colors duration-200"
                   >
-                    {effectiveSiteTitle}
+                    <RobotMark />
+                    <span>{effectiveSiteTitle}</span>
                   </Link>
                 </motion.div>
 
