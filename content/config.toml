@@ -1,23 +1,23 @@
 [site]
-title = "Renze Lou"
+title = "Reza's Website"
 description = "PhD student at Penn State University, working on AI for Science, Instruction Tuning, and Tool-use & GUI Agents."
 favicon = "/favicon.svg"
 last_updated = "March 2025"
 
 [author]
 name = "Renze Lou"
-title = "PhD Student"
+title = "AI Researcher"
 institution = "Penn State University"
 avatar = "/bio.jpg"
 
 [social]
 email = "renze.lou@psu.edu"
-location = "State College, PA"
-location_url = "https://maps.google.com/?q=State+College+PA"
+# location = "State College, PA"
+# location_url = "https://maps.google.com/?q=State+College+PA"
 google_scholar = "https://scholar.google.com/citations?user=GVTbSPMAAAAJ"
 github = "https://github.com/RenzeLou"
 linkedin = "https://www.linkedin.com/in/renze-lou-b681b51a0"
-twitter = "https://twitter.com/Reza0843"
+twitter = "https://x.com/Reza0843"
 
 [features]
 enable_likes = false

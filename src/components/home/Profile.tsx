@@ -11,7 +11,7 @@ import {
 } from '@heroicons/react/24/outline';
 import { MapPinIcon as MapPinSolidIcon, EnvelopeIcon as EnvelopeSolidIcon } from '@heroicons/react/24/solid';
 import { HeartIcon as HeartSolidIcon } from '@heroicons/react/24/solid';
-import { Github, Linkedin, Pin } from 'lucide-react';
+import { Github, Linkedin, Pin, Twitter } from 'lucide-react';
 import type { SiteConfig } from '@/lib/config';
 import { useMessages } from '@/lib/i18n/useMessages';
 
@@ -83,23 +83,28 @@ export default function Profile({ author, social, features }: ProfileProps) {
         }] : []),
         ...(social.google_scholar ? [{
             name: 'Google Scholar',
-            href: social.google_scholar,
+            href: social.google_scholar as string,
             icon: AcademicCapIcon,
         }] : []),
         ...(social.orcid ? [{
             name: 'ORCID',
-            href: social.orcid,
+            href: social.orcid as string,
             icon: OrcidIcon,
         }] : []),
         ...(social.github ? [{
             name: 'GitHub',
-            href: social.github,
+            href: social.github as string,
             icon: Github,
         }] : []),
         ...(social.linkedin ? [{
             name: 'LinkedIn',
-            href: social.linkedin,
+            href: social.linkedin as string,
             icon: Linkedin,
+        }] : []),
+        ...(social.twitter ? [{
+            name: 'Twitter',
+            href: social.twitter as string,
+            icon: Twitter,
         }] : []),
     ];
 
@@ -127,16 +132,17 @@ export default function Profile({ author, social, features }: ProfileProps) {
                 <h1 className="text-3xl font-serif font-bold text-primary mb-2">
                     {author.name}
                 </h1>
+                <p className="mb-2 text-lg font-medium text-neutral-500">
+                    楼仁泽
+                </p>
                 <p className="text-lg text-accent font-medium mb-1">
                     {author.title}
-                </p>
-                <p className="text-neutral-600 mb-2">
-                    {author.institution}
                 </p>
             </div>
 
             {/* Contact Links */}
-            <div className="flex flex-wrap justify-center gap-3 sm:gap-4 mb-6 relative px-2">
+            <div className="mb-6 px-2">
+                <div className="relative flex flex-wrap justify-center gap-3 sm:gap-4">
                 {socialLinks.map((link) => {
                     const IconComponent = link.icon;
                     if (link.isLocation) {
@@ -300,6 +306,7 @@ export default function Profile({ author, social, features }: ProfileProps) {
                         </a>
                     );
                 })}
+                </div>
             </div>
 
             {/* Like Button */}

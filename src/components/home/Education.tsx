@@ -19,8 +19,8 @@ interface EducationProps {
 
 function abbreviateDegree(degree: string): string {
     return degree
-        .replace('Computer Science & Engineering', 'CSE')
-        .replace('Computer Science', 'CS');
+        .replace('Computer Science & Engineering', 'Computer Science')
+        .replace('Computer Science', 'Computer Science');
 }
 
 function abbreviateSchool(school: string): string {
@@ -79,7 +79,7 @@ export default function Education({ items, title, variant = 'default' }: Educati
                         </div>
                         <div className="flex-1 min-w-0">
                             <div className={`flex ${isCompact ? 'items-start' : 'items-baseline'} justify-between gap-2 flex-wrap`}>
-                                <h3 className={`${isCompact ? 'text-[0.9rem] leading-5' : 'text-sm'} font-medium ${
+                                <h3 className={`${isCompact ? 'text-[0.82rem] leading-[1.15rem]' : 'text-sm'} font-medium ${
                                     item.active ? 'text-accent' : 'text-primary'
                                 }`}>
                                     {isCompact ? abbreviateDegree(item.degree) : item.degree}
