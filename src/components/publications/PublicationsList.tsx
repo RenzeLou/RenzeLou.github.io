@@ -7,6 +7,7 @@ import {
     MagnifyingGlassIcon,
     FunnelIcon,
     CalendarIcon,
+    UserIcon,
     BookOpenIcon,
     ClipboardDocumentIcon
 } from '@heroicons/react/24/outline';
@@ -22,6 +23,7 @@ interface PublicationsListProps {
 }
 
 const MAX_VISIBLE_AUTHORS = 5;
+type AuthorRoleFilter = 'all' | 'first' | 'second' | 'last';
 
 function getVisibleAuthors(authors: Publication['authors']) {
     if (authors.length <= MAX_VISIBLE_AUTHORS) {
@@ -39,11 +41,39 @@ function getVisibleAuthors(authors: Publication['authors']) {
     };
 }
 
+function matchesAuthorRole(pub: Publication, role: AuthorRoleFilter) {
+    if (role === 'all') {
+        return true;
+    }
+
+    const highlightedIndex = pub.authors.findIndex((author) => author.isHighlighted);
+    if (highlightedIndex === -1) {
+        return false;
+    }
+
+    const highlightedAuthor = pub.authors[highlightedIndex];
+
+    if (role === 'first') {
+        return highlightedIndex === 0 || Boolean(highlightedAuthor?.isCoAuthor);
+    }
+
+    if (role === 'second') {
+        return highlightedIndex === 1 && !highlightedAuthor?.isCoAuthor;
+    }
+
+    if (role === 'last') {
+        return highlightedIndex === pub.authors.length - 1;
+    }
+
+    return false;
+}
+
 export default function PublicationsList({ config, publications, embedded = false }: PublicationsListProps) {
     const messages = useMessages();
     const [searchQuery, setSearchQuery] = useState('');
     const [selectedYear, setSelectedYear] = useState<number | 'all'>('all');
     const [selectedType, setSelectedType] = useState<string | 'all'>('all');
+    const [selectedAuthorRole, setSelectedAuthorRole] = useState<AuthorRoleFilter>('all');
     const [showFilters, setShowFilters] = useState(false);
     const [expandedBibtexId, setExpandedBibtexId] = useState<string | null>(null);
     // Extract unique years and types for filters
@@ -68,10 +98,12 @@ export default function PublicationsList({ config, publications, embedded = fals
 
             const matchesYear = selectedYear === 'all' || pub.year === selectedYear;
             const matchesType = selectedType === 'all' || pub.type === selectedType;
+            const matchesAuthorPosition = matchesAuthorRole(pub, selectedAuthorRole);
 
-            return matchesSearch && matchesYear && matchesType;
+            return matchesSearch && matchesYear && matchesType && matchesAuthorPosition;
         });
-    }, [publications, searchQuery, selectedYear, selectedType]);
+    }, [publications, searchQuery, selectedYear, selectedType, selectedAuthorRole]);
+    const resultsLabel = messages.publications.showingPapers.replace('{count}', String(filteredPublications.length));
 
     return (
         <motion.div
@@ -115,6 +147,10 @@ export default function PublicationsList({ config, publications, embedded = fals
                         {messages.publications.filters}
                     </button>
                 </div>
+
+                <p className="text-sm text-neutral-500 dark:text-neutral-400">
+                    {resultsLabel}
+                </p>
 
                 <AnimatePresence>
                     {showFilters && (
@@ -190,6 +226,58 @@ export default function PublicationsList({ config, publications, embedded = fals
                                                 {type.replace('-', ' ')}
                                             </button>
                                         ))}
+                                    </div>
+                                </div>
+
+                                <div className="space-y-2">
+                                    <label className="text-sm font-medium text-neutral-700 dark:text-neutral-300 flex items-center">
+                                        <UserIcon className="h-4 w-4 mr-1" /> {messages.publications.authorType}
+                                    </label>
+                                    <div className="flex flex-wrap gap-2">
+                                        <button
+                                            onClick={() => setSelectedAuthorRole('all')}
+                                            className={cn(
+                                                "px-3 py-1 text-xs rounded-full transition-colors",
+                                                selectedAuthorRole === 'all'
+                                                    ? "bg-accent text-white"
+                                                    : "bg-white dark:bg-neutral-800 text-neutral-600 hover:bg-neutral-100 dark:hover:bg-neutral-700"
+                                            )}
+                                        >
+                                            {messages.common.all}
+                                        </button>
+                                        <button
+                                            onClick={() => setSelectedAuthorRole('first')}
+                                            className={cn(
+                                                "px-3 py-1 text-xs rounded-full transition-colors",
+                                                selectedAuthorRole === 'first'
+                                                    ? "bg-accent text-white"
+                                                    : "bg-white dark:bg-neutral-800 text-neutral-600 hover:bg-neutral-100 dark:hover:bg-neutral-700"
+                                            )}
+                                        >
+                                            {messages.publications.firstAuthor}
+                                        </button>
+                                        <button
+                                            onClick={() => setSelectedAuthorRole('second')}
+                                            className={cn(
+                                                "px-3 py-1 text-xs rounded-full transition-colors",
+                                                selectedAuthorRole === 'second'
+                                                    ? "bg-accent text-white"
+                                                    : "bg-white dark:bg-neutral-800 text-neutral-600 hover:bg-neutral-100 dark:hover:bg-neutral-700"
+                                            )}
+                                        >
+                                            {messages.publications.secondAuthor}
+                                        </button>
+                                        <button
+                                            onClick={() => setSelectedAuthorRole('last')}
+                                            className={cn(
+                                                "px-3 py-1 text-xs rounded-full transition-colors",
+                                                selectedAuthorRole === 'last'
+                                                    ? "bg-accent text-white"
+                                                    : "bg-white dark:bg-neutral-800 text-neutral-600 hover:bg-neutral-100 dark:hover:bg-neutral-700"
+                                            )}
+                                        >
+                                            {messages.publications.lastAuthor}
+                                        </button>
                                     </div>
                                 </div>
                             </div>

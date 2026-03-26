@@ -37,6 +37,11 @@ export interface LocaleMessages {
     filters: string;
     year: string;
     type: string;
+    authorType: string;
+    firstAuthor: string;
+    secondAuthor: string;
+    lastAuthor: string;
+    showingPapers: string;
     noResults: string;
     abstract: string;
     bibtex: string;
@@ -87,6 +92,11 @@ const en: LocaleMessages = {
     filters: 'Filters',
     year: 'Year',
     type: 'Type',
+    authorType: 'Author Type',
+    firstAuthor: 'First',
+    secondAuthor: 'Second',
+    lastAuthor: 'Last',
+    showingPapers: 'Showing {count} papers',
     noResults: 'No publications found matching your criteria.',
     abstract: 'Abstract',
     bibtex: 'BibTeX',
@@ -137,6 +147,11 @@ const zh: LocaleMessages = {
     filters: '筛选',
     year: '年份',
     type: '类型',
+    authorType: '作者类型',
+    firstAuthor: '一作',
+    secondAuthor: '二作',
+    lastAuthor: '尾作',
+    showingPapers: '当前显示 {count} 篇论文',
     noResults: '没有找到符合条件的论文。',
     abstract: '摘要',
     bibtex: 'BibTeX',
