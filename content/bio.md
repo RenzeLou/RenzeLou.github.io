@@ -1,14 +1,3 @@
-<!-- Hi, I am Renze (Reza) Lou. I am a 4th-year PhD student at [Penn State University](https://www.psu.edu/).
-
-I have broad interests in any frontier topics in AI and Large Language Models (LLMs) 🤖️.
-My current research covers **LLM Post-Training**, **Instruction Tuning**, **Agentic Systems**.
-  -->
-
- <!-- advised by Prof. [Wenpeng Yin](https://www.wenpengyin.org/). Before PSU, I obtained my B.Eng. degree from Zhejiang University City College. -->
-
-<!-- My research interests span **AI for Science**, **Instruction Tuning**, and **Tool-use & GUI Agents**. I am actively looking for research collaborators. If you are interested, feel free to reach out via email! -->
-
-
 Hi, I am Renze (Reza) Lou 👋, a 4th-year PhD student at [Penn State University](https://www.psu.edu/).
 
 I am broadly interested in frontier topics in AI and large language models. My current research covers **LLM post-training**, **instruction tuning**, and **agentic systems**.
