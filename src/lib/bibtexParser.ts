@@ -45,8 +45,9 @@ export function parseBibTeX(bibtexContent: string, locale?: string): Publication
     // Parse authors
     const authors = parseAuthors(tags.author || '', highlightNames);
 
-    // Parse year and month
-    const year = parseInt(tags.year) || new Date().getFullYear();
+    // Parse year and month. Be tolerant of common field-name mistakes like `years`.
+    const parsedYear = parseInt(tags.year || tags.years);
+    const year = parsedYear || new Date().getFullYear();
     const monthStr = tags.month?.toLowerCase() || '';
     const month = monthMapping[monthStr] || (parseInt(monthStr) || undefined);
 
