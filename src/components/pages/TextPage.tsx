@@ -1,8 +1,7 @@
 'use client';
 
-import { useRef } from 'react';
+import { useEffect, useRef } from 'react';
 import { motion } from 'framer-motion';
-import Script from 'next/script';
 import Image from 'next/image';
 import ReactMarkdown from 'react-markdown';
 import { TextPageConfig } from '@/types/page';
@@ -11,6 +10,32 @@ interface TextPageProps {
     config: TextPageConfig;
     content: string;
     embedded?: boolean;
+}
+
+function VisitorMapEmbed({ src }: { src: string }) {
+    const containerRef = useRef<HTMLDivElement>(null);
+
+    useEffect(() => {
+        const container = containerRef.current;
+        if (!container) return;
+
+        container.innerHTML = '';
+
+        const script = document.createElement('script');
+        script.src = src;
+        script.async = true;
+        script.defer = true;
+        script.type = 'text/javascript';
+        script.id = 'clustrmaps-widget';
+
+        container.appendChild(script);
+
+        return () => {
+            container.innerHTML = '';
+        };
+    }, [src]);
+
+    return <div ref={containerRef} className="min-h-[292px]" />;
 }
 
 function PhotoGallery({
@@ -170,11 +195,7 @@ export default function TextPage({ config, content, embedded = false }: TextPage
                         {config.visitor_map_title || 'Visitor Map'}
                     </h2>
                     <div className="overflow-hidden rounded-xl border border-neutral-200 bg-white p-2 dark:border-neutral-700 dark:bg-neutral-950">
-                        <Script
-                            id="clustrmaps"
-                            src={config.visitor_map_src}
-                            strategy="afterInteractive"
-                        />
+                        <VisitorMapEmbed src={config.visitor_map_src} />
                     </div>
                 </div>
             )}
