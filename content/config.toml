@@ -66,6 +66,12 @@ target = "blog"
 href = "/blog"
 
 [[navigation]]
+title = "Life"
+type = "page"
+target = "life"
+href = "/life"
+
+[[navigation]]
 title = "CV"
 type = "page"
 target = "cv"
