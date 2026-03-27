@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useRef } from 'react';
+import { useMemo, useRef } from 'react';
 import { motion } from 'framer-motion';
 import Image from 'next/image';
 import ReactMarkdown from 'react-markdown';
@@ -13,29 +13,53 @@ interface TextPageProps {
 }
 
 function VisitorMapEmbed({ src }: { src: string }) {
-    const containerRef = useRef<HTMLDivElement>(null);
+    const iframeSrcDoc = useMemo(
+        () => `<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+      html, body {
+        margin: 0;
+        padding: 0;
+        background: #ffffff;
+        overflow: hidden;
+      }
 
-    useEffect(() => {
-        const container = containerRef.current;
-        if (!container) return;
+      body {
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        min-height: 100vh;
+      }
 
-        container.innerHTML = '';
+      #map-root {
+        width: 100%;
+        min-height: 292px;
+        display: flex;
+        justify-content: center;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map-root">
+      <script type="text/javascript" id="clustrmaps" src="${src}"></script>
+    </div>
+  </body>
+</html>`,
+        [src]
+    );
 
-        const script = document.createElement('script');
-        script.src = src;
-        script.async = true;
-        script.defer = true;
-        script.type = 'text/javascript';
-        script.id = 'clustrmaps-widget';
-
-        container.appendChild(script);
-
-        return () => {
-            container.innerHTML = '';
-        };
-    }, [src]);
-
-    return <div ref={containerRef} className="min-h-[292px]" />;
+    return (
+        <iframe
+            title="Visitor Map"
+            srcDoc={iframeSrcDoc}
+            sandbox="allow-scripts allow-same-origin"
+            loading="lazy"
+            className="h-[292px] w-full border-0"
+        />
+    );
 }
 
 function PhotoGallery({
