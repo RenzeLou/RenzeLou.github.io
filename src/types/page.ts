@@ -12,6 +12,8 @@ export interface PublicationPageConfig extends BasePageConfig {
 export interface TextPageConfig extends BasePageConfig {
     type: 'text';
     source: string;
+    visitor_map_title?: string;
+    visitor_map_src?: string;
 }
 
 export interface CardItem {

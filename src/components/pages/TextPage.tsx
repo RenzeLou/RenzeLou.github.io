@@ -1,6 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
+import Script from 'next/script';
 import ReactMarkdown from 'react-markdown';
 import { TextPageConfig } from '@/types/page';
 
@@ -54,6 +55,21 @@ export default function TextPage({ config, content, embedded = false }: TextPage
                     {content}
                 </ReactMarkdown>
             </div>
+
+            {config.visitor_map_src && (
+                <div className="mt-10 rounded-2xl border border-neutral-200 bg-neutral-50/80 p-5 dark:border-neutral-800 dark:bg-neutral-900/60">
+                    <h2 className="mb-3 text-lg font-serif font-semibold text-primary">
+                        {config.visitor_map_title || 'Visitor Map'}
+                    </h2>
+                    <div className="overflow-hidden rounded-xl border border-neutral-200 bg-white p-2 dark:border-neutral-700 dark:bg-neutral-950">
+                        <Script
+                            id="clustrmaps"
+                            src={config.visitor_map_src}
+                            strategy="afterInteractive"
+                        />
+                    </div>
+                </div>
+            )}
         </motion.div>
     );
 }

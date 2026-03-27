@@ -1,3 +1,5 @@
 type = "text"
 title = "CV"
 source = "cv.md"
+visitor_map_title = "Visitor Map"
+visitor_map_src = "https://cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=288&t=tt&d=dc26DYNe0X1PgCNiVzcfGP8oPNLgTbiwGE77MJThVnw&cmn=ff5353&cmo=f78403&co=2d78ad&ct=ffffff"
