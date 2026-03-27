@@ -14,6 +14,11 @@ export interface TextPageConfig extends BasePageConfig {
     source: string;
     visitor_map_title?: string;
     visitor_map_src?: string;
+    photo_gallery_title?: string;
+    photo_gallery_items?: Array<{
+        image: string;
+        caption: string;
+    }>;
 }
 
 export interface CardItem {

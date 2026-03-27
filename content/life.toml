@@ -1,3 +1,71 @@
 type = "text"
 title = "Life"
 source = "life.md"
+photo_gallery_title = "Photo Journal"
+
+
+
+[[photo_gallery_items]]
+image = "/photo_gallery/2025-04-sc.jpg"
+caption = "A warm and bright spring afternoon in State College."
+
+[[photo_gallery_items]]
+image = "/photo_gallery/2025-11-macau.jpg"
+caption = "We were in Macau."
+
+[[photo_gallery_items]]
+image = "/photo_gallery/2025-05-dc.jpg"
+caption = "The Washington Monument in Washington, D.C."
+
+[[photo_gallery_items]]
+image = "/photo_gallery/2025-05-ny.jpg"
+caption = "At an art museum in New York City."
+
+[[photo_gallery_items]]
+image = "/photo_gallery/2025-05-ny.t.jpg"
+caption = "A view over New York City from the top of the Empire State Building."
+
+
+[[photo_gallery_items]]
+image = "/photo_gallery/2025-07-seattle.jpg"
+caption = "We were celebrating our birthdays in Seattle in July 2025. Interestingly, my solar-calendar birthday and her lunar-calendar birthday happened to fall on the same day that year."
+
+[[photo_gallery_items]]
+image = "/photo_gallery/2025-07-seattle-she.jpg"
+caption = ""
+
+[[photo_gallery_items]]
+image = "/photo_gallery/2025-05-oyster.jpg"
+caption = "The best oysters I have ever had, in Savannah, Georgia."
+
+[[photo_gallery_items]]
+image = "/photo_gallery/2025-05-rice.jpg"
+caption = "One of my favorite meals: grilled fish with pineapple rice in Savannah, Georgia."
+
+
+
+[[photo_gallery_items]]
+image = "/photo_gallery/2025-08-olympic.jpg"
+caption = "A stunning lake in Olympic National Park."
+
+[[photo_gallery_items]]
+image = "/photo_gallery/2025-08-olympic2"
+caption = "At the summit in Olympic National Park."
+
+[[photo_gallery_items]]
+image = "/photo_gallery/2025-08-wasmalltown"
+caption = "A small-town moment in Washington State."
+
+[[photo_gallery_items]]
+image = "/photo_gallery/2025-09-ny.jpg"
+caption = "We spent Valentine's Day 2025 in New York City."
+
+
+
+[[photo_gallery_items]]
+image = "/photo_gallery/2025-05-philly.jpg"
+caption = "We were in Philadelphia."
+
+[[photo_gallery_items]]
+image = "/photo_gallery/2025-05-philly-she.jpg"
+caption = ""
