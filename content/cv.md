@@ -1,1 +1,1 @@
-You can download my full CV [here](/RenzeLou_CV_02.28.2026.pdf).
+You can download my full CV [here](/楼仁泽_中文版__CV.pdf).
