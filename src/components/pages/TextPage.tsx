@@ -13,49 +13,15 @@ interface TextPageProps {
 }
 
 function VisitorMapEmbed({ src }: { src: string }) {
-    const iframeSrcDoc = useMemo(
-        () => `<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <style>
-      html, body {
-        margin: 0;
-        padding: 0;
-        background: #ffffff;
-        overflow: hidden;
-      }
-
-      body {
-        display: flex;
-        justify-content: center;
-        align-items: flex-start;
-        min-height: 100vh;
-      }
-
-      #map-root {
-        width: 100%;
-        min-height: 292px;
-        display: flex;
-        justify-content: center;
-      }
-    </style>
-  </head>
-  <body>
-    <div id="map-root">
-      <script type="text/javascript" id="clustrmaps" src="${src}"></script>
-    </div>
-  </body>
-</html>`,
+    const iframeSrc = useMemo(
+        () => `/visitor-map-frame.html?src=${encodeURIComponent(src)}`,
         [src]
     );
 
     return (
         <iframe
             title="Visitor Map"
-            srcDoc={iframeSrcDoc}
-            sandbox="allow-scripts allow-same-origin"
+            src={iframeSrc}
             loading="lazy"
             className="h-[292px] w-full border-0"
         />

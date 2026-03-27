@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+      html, body {
+        margin: 0;
+        padding: 0;
+        background: #ffffff;
+        overflow: hidden;
+      }
+
+      body {
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        min-height: 100vh;
+      }
+
+      #map-root {
+        width: 100%;
+        min-height: 292px;
+        display: flex;
+        justify-content: center;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map-root"></div>
+    <script>
+      const params = new URLSearchParams(window.location.search);
+      const src = params.get('src');
+
+      if (src) {
+        const script = document.createElement('script');
+        script.src = src;
+        script.async = true;
+        script.type = 'text/javascript';
+        script.id = 'clustrmaps';
+        document.getElementById('map-root').appendChild(script);
+      }
+    </script>
+  </body>
+</html>
