@@ -9,9 +9,7 @@ photo_gallery_title = "Photo Journal"
 image = "/photo_gallery/2025-04-sc.jpg"
 caption = "A warm and bright spring afternoon in State College."
 
-[[photo_gallery_items]]
-image = "/photo_gallery/2025-11-macau.jpg"
-caption = "We were in Macau."
+
 
 [[photo_gallery_items]]
 image = "/photo_gallery/2025-05-dc.jpg"
@@ -55,6 +53,10 @@ caption = "At the summit in Olympic National Park."
 [[photo_gallery_items]]
 image = "/photo_gallery/2025-08-wasmalltown"
 caption = "A small-town moment in Washington State."
+
+[[photo_gallery_items]]
+image = "/photo_gallery/2025-11-macau.jpg"
+caption = "We were in Macau."
 
 [[photo_gallery_items]]
 image = "/photo_gallery/2025-09-ny.jpg"
